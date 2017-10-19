@@ -1,0 +1,153 @@
+@include font-face('tex', 'texgyreadventor-bold',300);
+@include font-face('tex', 'texgyreadventor-regular',200);
+@include font-face('mouse', 'wicked_mouse');
+
+//Buttons
+.cw-btn{
+    font-family: 'mouse';
+    min-height: 40px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    display: inline-block;
+    line-height: 40px;
+    text-align: center;
+    padding: 0 15px;
+    text-decoration: none;
+    margin-bottom: 10px;
+    &.has-icon{
+    	padding-left:30px;
+    	position: relative;
+    	i{
+    		position:absolute;
+    		left: 10px;
+    	}
+    }
+
+	&.cw-red-btn{
+		background-color: $red;
+		@include box-shadow(0px, 4px, 0px, darken($red, 20%));
+	}
+	&.cw-orange-btn{
+		background-color: $orange;
+		@include box-shadow(0px, 4px, 0px, darken($orange, 20%));
+	}
+	&.cw-yellow-btn{
+		background-color: $yellow;
+		@include box-shadow(0px, 4px, 0px, darken($yellow, 20%));
+	}
+	&.cw-blue-btn{
+		background-color: $blue;
+		@include box-shadow(0px, 4px, 0px, darken($blue, 20%));
+	}
+
+	&:active, &:focus, &.activated{
+		box-shadow:none !important;
+	}
+}
+//Header bar
+$header-height:60px;
+.bar.cw-header{
+    height: $header-height;
+    background-color: $darkBlue;
+    background-image:none;
+    color: #FFFFFF;
+    @include box-shadow(0px, 5px, 0px, darken($darkBlue, 5%));
+    .title{
+    	height: $header-height;
+    	line-height: $header-height;
+    	.nav-bar-title{
+    		color: #FFFFFF;
+    		font-family: 'mouse';
+    		font-size: 25px;
+    		.logo{
+    			height: 70%;
+			    position: absolute;
+			    left: 0;
+			    right: 0;
+			    bottom: 0;
+			    top: 0;
+			    margin: auto;
+    		}
+    	}
+    }
+
+    .cw-button-back {
+    	color: #FFFFFF;
+    	font-size: 45px;
+    }
+    .cw-hints{
+        font-family: 'mouse';
+        font-size: 16px;
+        background: $blue;
+        border: none;
+        border-bottom-left-radius: 10px;
+        border-top-left-radius: 10px;
+        color: #FFFFFF;
+        padding: 0 20px;
+        margin-right: -5px;
+        i{
+            font-size: 20px;
+            margin-left: 8px;
+            position: relative;
+            top: 4px;
+        }
+    }
+    .cw-stars-state i {
+        font-size: 30px;
+        margin: 0 5px;
+    }
+}
+.cw-stars{
+	font-family: 'tex';
+	font-weight: 300 !important;
+	font-size: 18px !important;
+	color: #FFFFFF;
+    background: transparent;
+    border: none;
+	i{
+		font-size: 22px;
+		color: $yellow;
+		vertical-align: -1px;
+	}
+}
+.cw-stars-state{
+    height: 100%;
+    display: inline-block;
+    text-align:center;
+    width: 100%; 
+    i{
+        font-size: 40px;
+        line-height: 50px;
+        margin: 0 10px;
+        color: $yellow;
+        display: inline-block;
+        &.disable{
+            color:rgba(0,0,0,0.2);
+        }
+        &.animatStars{
+            animation:0.5s zoomIn ease; 
+        }
+    }
+}
+.coins-icon{
+    background-image: url("../assets/images/coins.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+}
+.platform-ios.platform-cordova:not(.fullscreen) .bar-header:not(.bar-subheader){
+    height: 84px;
+}
+.platform-ios{
+    .nav-bar-block{
+        margin-top: 0 !important;
+    }
+    .levels-page, .group-page, .cw-page, .question-page, .about-page{
+        padding-top:90px;
+    }
+}
+.platform-ios .group-page .progressiveBar{
+    top: 87px;
+}

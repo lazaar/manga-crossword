@@ -1,0 +1,38 @@
+<ion-nav-bar class="bar bar-header bar-light cw-header" align-title="center">
+
+      <ion-nav-buttons side="right">
+        <button  class="cw-hints" ng-click="vm.openHints();mainCtrl.clickSound()">{{vm.hints}} <i class="coins-icon"></i></button>
+      </ion-nav-buttons>
+
+    <ion-nav-title>
+             <span class="cw-stars-state">
+                <i class="ion-ios-star" ng-repeat="n in [].constructor(3) track by $index" ng-class="{'disable': $index >= vm.stars}"></i>
+              </span>
+    </ion-nav-title>
+
+    <ion-nav-buttons side="left">
+        <button class="cw-button-back button button-icon" ng-click="mainCtrl.goBack()"><i class="ion-ios-arrow-back"></i></button>
+    </ion-nav-buttons>
+
+</ion-nav-bar>
+
+<ion-content class="question-page" scroll="false">
+  <div class="question-wrapper">
+    <p class="title">{{vm.question.title}}</p>
+    <div class="question-content">
+      <p ng-if="vm.question.type != 'image'">{{vm.question.content}}</p>
+      <div ng-if="vm.question.type == 'image'" ng-style="{'background-image':'url('+vm.question.content+')'}" class="img" ng-class="{'cover':vm.question.css === 'cover'}"></div>
+    </div>
+    <ul class="answer" ng-class="[vm.state, {'long': vm.answer.length >= 9}]">
+      <li ng-repeat="letter in vm.answer track by $index" ng-click="vm.onAnswerClick($index)" ng-bind-html="letter.content" ng-class="letter.type"></li>
+    </ul>
+
+    <ul class="letters" ng-if="!vm.question.isAlreadyCorrected">
+      <li ng-repeat="letter in vm.letters track by $index" ng-click="vm.onLetterClick($index)" ng-bind-html="letter" ng-class="{'blank': letter.length > 1}"></li>
+    </ul>
+  </div>
+  <div class="hints-buttons row" ng-if="!vm.question.isAlreadyCorrected">
+    <a ng-click="vm.showLetter(); mainCtrl.clickSound()" class="col" ng-class="{'animate':vm.animateHint == 1 }"><i ng-class="vm.hints >= 5 ? 'ion-ios-lightbulb-outline' : 'coins-icon'"></i>{{vm.hints >= 5 ? 'Reveal letter' : 'Add coins'}}<span class="coins" ng-if="vm.hints >= 5">5<i class="coins-icon"></i></span></a>
+    <a ng-click="vm.shareScreen(); mainCtrl.clickSound()" class="col" ng-class="{'animate':vm.animateHint == 2 }"><i class="ion-android-share-alt"></i>Ask a friend</a> 
+  </div>
+</ion-content>

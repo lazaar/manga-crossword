@@ -1,0 +1,79 @@
+.home-page{
+	height:calc(100% + 1px);
+	background: $home-background-color  url("../assets/images/back.png") no-repeat;
+	background-size:cover !important;
+	.logo{
+		height: 35%;
+		background-color: $home-logo-color; 
+		text-align: center;
+		position: relative; 
+		> img{ 
+			max-width: 60%;
+		    top: 0;
+		    position: absolute;
+		    bottom: 0;
+		    left: 0;
+		    right: 0;
+		    margin: auto;
+			&.ng-hide-remove{ animation:0.5s $home-logo-animation ease; }
+		}
+	}
+	.main-menu{
+		height: calc(65% - 70px);
+		.btns-wrapper{
+			position: relative;
+		    top: 20px;
+		}
+		.cw-btn{
+		    display: block;
+		    max-width: 280px;
+		    width: 80%;
+		    margin: auto;
+
+
+		    margin-bottom: 20px;
+		    font-size: 25px;
+		    height: 55px;
+		    line-height: 55px;
+		    i{
+		    	font-size: 35px;
+		    }
+		    @media(max-height:567px){
+		    	margin-bottom: 15px;
+			    font-size: 21px;
+			    height: 45px;
+			    line-height: 45px;
+		    }
+		}
+	}
+
+	.bottom-btns{
+		height: 70px;
+		text-align: center;
+		.cw-btn{
+		    height: 56px;
+		    line-height: 56px;
+		    width: 56px;
+		    margin: 0 10px;
+		    font-size: 40px;
+		    padding: 0;
+		}
+		.ion-music-note.disable{
+			position:relative;
+			&::after{
+				content: "";
+			    width: 5px;
+			    position: absolute;
+			    top: 12px;
+			    height: 46px;
+			    transform: rotate(-45deg);
+			    background: #FFFFFF;
+			    left: 0;
+			    right: 0;
+			    margin: auto;
+			    border-top: 3px solid $blue;
+			    border-right: 3px solid $blue;
+			}
+		}
+	}
+}

@@ -1,0 +1,204 @@
+[
+	{
+		"crosswords": [
+			{
+ 				"width" : 10,
+ 				"height" : 12,
+ 				"questions" : [
+ 					{
+ 						"x": 0,
+						"y": 0,
+						"direction":"v", 
+						"title":" title 2",
+						"content":" question 2",
+						"type":"text",
+						"answer":"oxygen",
+						"letters":"IUeghnooxy" 
+ 					},
+					{
+ 						"x": 0,
+						"y": 0,
+						"direction":"h",
+						"title":" title 1",
+						"content":"../assets/images/content/orange.jpg",
+						"type":"image",
+						"answer":"orange",
+						"letters":"DKMaeghnor" 
+ 					},
+					{
+ 						"x": 4,
+						"y": 0,
+						"direction":"h",
+						"title":" title 1",
+						"content":" question 1",
+						"type":"text",
+						"answer":"eagle",
+						"letters":"BIQaeegln" 
+ 					},
+					{
+ 						"x": 4,
+						"y": 2,
+						"direction":"v", 
+						"title":" title 1",
+						"content":" question 1",
+						"type":"text",
+						"answer":"green",
+						"letters":"IPVeegnrx" 
+ 					},
+					{
+ 						"x": 7,
+						"y": 1,
+						"direction":"h",
+						"title":" title 1",
+						"content":" question 1",
+						"type":"text",
+						"answer":"jeans",
+						"letters":"Paejnnnsv" 
+ 					},
+					{
+ 						"x": 1,
+						"y": 7,
+						"direction":"v", 
+						"title":" title 2",
+						"content":" question 2",
+						"type":"text",
+						"answer":"bulls",
+						"letters":"LTUbllsux" 
+ 					},
+					{
+ 						"x": 2,
+						"y": 6,
+						"direction":"h",
+						"title":" title 2",
+						"content":" question 2",
+						"type":"text",
+						"answer":"zurich",
+						"letters":"JMXchiruxz" 
+ 					},
+					{
+ 						"x": 5,
+						"y": 5,
+						"direction":"v", 
+						"title":" title 2",
+						"content":" question 2",
+						"type":"text",
+						"answer":"test9",
+						"letters":"9KOUeqstt" 
+ 					},
+					{
+ 						"x": 5,
+						"y": 5,
+						"direction":"h",
+						"title":" title 1",
+						"content":" question 1",
+						"type":"text",
+						"answer":"test8",
+						"letters":"8FRSesttz" 
+ 					}
+ 				]
+			},
+			{
+ 				"width" : -1,
+ 				"height" : 8,
+ 				"questions" : [
+ 					{
+ 						"x": 0,
+						"y": 0,
+						"direction":"h",
+						"title":" title",
+						"content":" question",
+						"type":"text",
+						"answer":"r√©ponse",
+						"letters":"Sehnnopqrs©√" 
+ 					}
+ 				]
+			},
+			{
+ 				"width" : 9,
+ 				"height" : 16,
+ 				"questions" : [
+ 					{
+ 						"x": 0,
+						"y": 0,
+						"direction":"h",
+						"title":" title 1",
+						"content":" question 1",
+						"type":"text",
+						"answer":"test10",
+						"letters":"01AZefsttv" 
+ 					},
+					{
+ 						"x": 0,
+						"y": 3,
+						"direction":"v", 
+						"title":" title 2",
+						"content":" question 2",
+						"type":"text",
+						"answer":"test14",
+						"letters":"14Jesttxzz" 
+ 					},
+					{
+ 						"x": 3,
+						"y": 3,
+						"direction":"h",
+						"title":" title 1",
+						"content":" question 1",
+						"type":"text",
+						"answer":"test13",
+						"letters":"13BBegstty" 
+ 					},
+					{
+ 						"x": 3,
+						"y": 6,
+						"direction":"v", 
+						"title":" title 1",
+						"content":" question 1",
+						"type":"text",
+						"answer":"test17",
+						"letters":"17LVesttxz" 
+ 					},
+					{
+ 						"x": 6,
+						"y": 6,
+						"direction":"h",
+						"title":" title 2",
+						"content":" question 2",
+						"type":"text",
+						"answer":"test16",
+						"letters":"16FMQZestt" 
+ 					},
+					{
+ 						"x": 2,
+						"y": 10,
+						"direction":"v", 
+						"title":" title 2",
+						"content":" question 2",
+						"type":"text",
+						"answer":"test12",
+						"letters":"12Ibceostt" 
+ 					},
+					{
+ 						"x": 2,
+						"y": 10,
+						"direction":"h",
+						"title":" title 2",
+						"content":" question 2",
+						"type":"text",
+						"answer":"test18",
+						"letters":"18MQesttzz" 
+ 					},
+					{
+ 						"x": 0,
+						"y": 12,
+						"direction":"v", 
+						"title":" title 1",
+						"content":" question 1",
+						"type":"text",
+						"answer":"test15",
+						"letters":"15Ueppsttv" 
+ 					}
+ 				]
+			}
+		]
+	}
+]

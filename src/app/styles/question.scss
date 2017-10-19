@@ -1,0 +1,145 @@
+.question-page{
+	height:calc(100% + 1px);
+	background: $levels-background-color  url("../assets/images/back2.png") no-repeat;
+	background-size:cover !important;
+	padding-top:70px;
+	text-align:center;
+	.question-wrapper{
+		height: calc(100% - 50px);
+		padding-top: 40px;
+		 @media(max-height:567px){
+			padding-top: 0px;
+	    }
+	}
+	.title{
+	    width: 70%;
+	    margin: auto;
+	    font-family: 'tex';
+	    font-weight: 300;
+	    background: $blue;
+	    color: #FFFFFF;
+	    min-height: 35px;
+	    font-size: 18px;
+	    padding: 6px;
+	}
+	.question-content{
+		height: 40%;
+	    background: rgba(0,0,0,0.1);
+	    width: 70%;
+	    margin: auto;
+	    padding: 10px;
+	    p{
+	    	position: relative;
+		    top: 50%;
+		    transform: translateY(-50%);
+		    text-align: center;
+		    font-family: 'tex';
+		    margin-bottom: 0;
+		    font-weight: 200;
+		    font-size: 16px;
+	    }
+	    .img{
+		    height: 100%;
+		    width: 100%;
+		    background-size: contain;
+		    background-repeat: no-repeat;
+		    background-position: center;
+		    &.contain{
+		    	background-size: cover;
+		    }
+	    }
+	}
+
+	.letters, .answer{
+		text-align: center;
+		margin-top: 15px;
+		li{
+			width: 35px;
+		    display: inline-block;
+		    background: white;
+		    text-align: center;
+		    height: 35px;
+		    line-height: 35px;
+		     margin: 2px;
+		     font-family: 'tex';
+		     color: $blue;
+		     font-size: 20px;
+		     text-transform: uppercase;
+		}
+	}
+	.answer.long{
+		li{
+			width: 27px;
+			line-height: 27px;
+			height: 27px;
+			font-size: 18px;
+		}
+	}
+	.answer.correct{
+		animation:0.5s tada ease; 
+		li{
+			background:$red;
+			color: #FFFFFF;
+		}
+	}
+	.answer.wrong{
+		animation:0.3s shake ease; 
+	}
+	.answer .corrected{
+		background:$red;
+		color: #FFFFFF;
+	}
+	.letters .blank{
+		background:transparent;
+	}
+	.hints-buttons{
+		height: 50px;
+		line-height: 35px;
+		background: $darkBlue;
+		font-family: 'mouse';
+		font-size: 13px;
+		padding:0;
+		color: #FFFFFF;
+		a{
+			position: relative;
+			padding-left: 28px; 
+			color: #FFFFFF;
+			&.animate{
+				animation:1s tada ease; 
+			}
+			> i{
+				position:absolute;
+				left: 10px;
+    			font-size: 22px;
+    			&.coins-icon{
+				    top: 0;
+				    bottom: 0;
+				    margin: auto;
+				    width: 20px;
+    			}
+			}
+			&:first-child{
+				border-right:1px solid #FFFFFF;
+			}
+			.coins{
+				font-size: 13px;
+			    display: inline-block;
+			    margin-left: 5px;
+			    color: $yellow;
+			    position: absolute;
+			    top: 0px;
+			    i{
+			    	width: 14px;
+				    height: 14px;
+				    position: relative;
+				    top: 2px;
+				    margin-left: 3px;
+			    }
+				@media(max-width:401px){
+					display: none;
+			    }
+
+			}
+		}
+	}
+}
