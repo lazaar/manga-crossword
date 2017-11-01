@@ -4,7 +4,7 @@
 	padding-top:70px;
 	text-align:center;
 	.title{
-		color: $red;
+		color: $darkBlue;
 		font-size: 30px;
 		font-family: 'mouse';
 		margin:30px 0;
@@ -16,13 +16,13 @@
 	}
 	.contributors{
 		> div{
-			color: darken($blue,20%);
+			color: darken($yellow,20%);
 			font-family: 'tex';
 		}
 		> p{
 			font-family: 'mouse';
 			margin-bottom: 30px;
-			color: $blue;
+			color: $yellow;
 		}
 	}
 	.bottom-bloc{

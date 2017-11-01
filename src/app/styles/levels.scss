@@ -3,7 +3,7 @@
 	background: $levels-background-color;
 	padding-top:70px;
 	.levels{
-		padding:10px 30px;
+		padding:10px 0px;
     	li{
     		.top-content{
 			    background: $lightBlue;
@@ -13,7 +13,6 @@
 			    position: relative;
 			    color: #FFFFFF;
 			    font-family: 'mouse';
-			    border-radius: 10px;
 			    z-index: 4;
 			    i{
 				    font-size: 40px;
@@ -32,7 +31,6 @@
 			    position: relative;
 			    color: #FFFFFF;
 			    margin-bottom: 25px;
-			    border-radius: 10px;
 			    padding-top: 18px;
 			    margin-top: -20px;
 				font-family: 'tex';

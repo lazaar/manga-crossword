@@ -20,7 +20,7 @@
             };
 
             function init(){
-                if(typeof window.plugins.NativeAudio !== 'undefined' ){
+                if(typeof window.plugins !== 'undefined' && typeof window.plugins.NativeAudio !== 'undefined' ){
                     window.plugins.NativeAudio.preloadSimple('click', cqConstantes.sounds.click, null, null);
                     window.plugins.NativeAudio.preloadSimple('letterClick', cqConstantes.sounds.letterClick, null, null);
                     window.plugins.NativeAudio.preloadSimple('correct', cqConstantes.sounds.correct, null, null);
@@ -32,7 +32,7 @@
 
             function playSound(id){
 
-                if(typeof window.plugins.NativeAudio === 'undefined' || !dataModel.isSound){
+                if(typeof window.plugins === 'undefined' || typeof window.plugins.NativeAudio === 'undefined' || !dataModel.isSound){
                     return;
                 }
                 window.plugins.NativeAudio.play(id);

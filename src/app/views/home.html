@@ -4,14 +4,14 @@
 	</div>
 	<div class="main-menu clearfix">
 		<div class="btn-wrapper">
-			<a href="" ng-click="mainCtrl.goToState('levels')" class="cw-btn cw-red-btn has-icon"><i class="ion-play"></i>Play</a>
-			<a href="" ng-click="vm.share(); mainCtrl.clickSound()" class="cw-btn cw-orange-btn has-icon"><i class="ion-android-share-alt"></i>Share</a>
-			<a href="" ng-click="vm.rateApp(); mainCtrl.clickSound()" class="cw-btn cw-yellow-btn has-icon"><i class="ion-ios-star"></i>Rate</a>
+			<a href="" ng-click="mainCtrl.goToState('levels')" class="cw-btn cw-blue-btn has-icon"><i class="ion-play"></i>Play</a>
 		</div>
 	</div>
 	<div class="bottom-btns">
-		<a href="" ng-click="mainCtrl.goToState('about')" class="cw-btn cw-blue-btn"><i class="ion-help"></i></a>
-		<a href="" ng-click="vm.toggleSounds(); mainCtrl.clickSound()" class="cw-btn cw-blue-btn">
+		<a href="" ng-click="vm.share(); mainCtrl.clickSound()" class="cw-btn cw-orange-btn"><i class="ion-android-share-alt"></i></a>
+		<a href="" ng-click="vm.rateApp(); mainCtrl.clickSound()" class="cw-btn cw-orange-btn"><i class="ion-android-star"></i></a>
+		<a href="" ng-click="mainCtrl.goToState('about')" class="cw-btn cw-orange-btn"><i class="ion-help"></i></a>
+		<a href="" ng-click="vm.toggleSounds(); mainCtrl.clickSound()" class="cw-btn cw-orange-btn">
 			<i ng-class="vm.isSound ? 'ion-volume-high' : 'ion-android-volume-off'"></i>
 		</a>
 <!-- 		<a href="" ng-click="vm.toggleMusique(); mainCtrl.clickSound()" class="cw-btn cw-blue-btn"><i class="ion-music-note" ng-class="{'disable':!vm.isMusique}"></i></a> -->

@@ -8,8 +8,7 @@
         .controller('groupController', GroupControllerFct);
 
 
-    function GroupControllerFct($stateParams,analyticsService, popupService,admobService,  $timeout, $scope, soundService, starService, routerHelper, cqConstantes, cwService , dataModel, dataService, correctionService){
-
+    function GroupControllerFct($location,$ionicScrollDelegate, $stateParams,analyticsService, popupService,admobService,  $timeout, $scope, soundService, starService, routerHelper, cqConstantes, cwService , dataModel, dataService, correctionService){
         var vm = this;
 
         $scope.$on( '$ionicView.beforeEnter', function( scopes, states ) {
@@ -56,11 +55,22 @@
             vm.numberStars = dataModel.numberStars;
             vm.currentLevel = dataModel.currentLevel;
             vm.currentCw = dataModel.currentCw;
+
             if(fromCache){
                 soundService.playMenuMusic();
             }
             
-            vm.activeSlide = (vm.level+1) === vm.currentLevel ? (vm.currentCw - 1) : 0;
+
+            var activeSlide = (vm.level+1) === vm.currentLevel ? (vm.currentCw - 1) : 0;
+            console.log(activeSlide);
+            if(activeSlide > 5){
+                $timeout(function() {
+                    $location.hash('item-'+ activeSlide);
+                    var delegate = $ionicScrollDelegate.$getByHandle('group');
+                    delegate.anchorScroll(true); 
+                }, 100);
+            }
+
             $timeout(function() {
                  vm.left = 100*(vm.level+1 === vm.currentLevel ? vm.currentCw: vm.crosswords.length)/vm.crosswords.length;
                  vm.left = 100 - vm.left;

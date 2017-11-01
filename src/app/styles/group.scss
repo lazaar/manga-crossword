@@ -4,18 +4,22 @@
 	background-size:cover !important;
 	padding-top:70px;
 	text-align:center;
+	.scroll{
+		height: 100%;
+	}
 	.progressiveBar{
 	    width: 100%;
 	    height: 5px;
-	    background: $red;
+	    background: $orange;
 	    position: absolute;
-	    top: 66px;
+	    top: -5px;
 	    left: -100%;
 		-webkit-transition: left .5s ease;
 		-moz-transition: left .5s ease;
 		-ms-transition: left .5s ease;
 		-o-transition: left .5s ease;
 		transition: left .5s ease;
+		z-index: 1000;
 		> div{
 			background: rgba(0,0,0,0.5);
 		    display: inline-block;
@@ -38,25 +42,28 @@
 		    }
 		}
 	}
-	.slider{
-		padding: 40px 0;
+	.group-list{
+		padding: 20px 5px;
 		height: calc(100% - 100px);
 		@media(max-height:567px){
-			padding: 10px 0;
+			padding: 5px 5px;
 	    }
-		ion-slide{
-			padding:0 20px;
-    		height: 100%;
+		li{
+		    padding: 0 10px;
+		    height: 40%;
+		    display: inline-block;
+		    width: 50%;
+		    float: left;
+		    margin-bottom: 20px;
     		.top-content{
-			    background: $red;
-			    border-radius: 10px;
-			    height: calc(100% - 50px);
+			    background: $orange;
+			    height: calc(100% - 40px);
 			    color: #FFFFFF;
 			    font-family: 'mouse';
 			    position: relative;
 			    text-align:center; 
 			    .cw-number{
-			    	font-size: 60px;
+			    	font-size: 40px;
 			    	position: absolute;
 			    	top: 0;
 			    	bottom: 0;
@@ -64,30 +71,28 @@
 			    	left: 0;
 			    	margin:auto; 
 			    	display: block;
-			    	border-radius:45px;
-			    	border:2px solid #FFFFFF;
-				    width: 90px;
-				    height: 90px;
-				    padding-top: 33px;
+				    width: 60px;
+				    height: 60px;
+				    padding-top: 16px;
 			    }
 
 			    .state{
 			    	position: absolute;
-			    	bottom: 20px;
+			    	bottom: 10px;
 			    	left: 0;
 			    	right: 0;
 			    	margin:auto;
 			    	font-family: 'tex';
 			    	font-weight: 300;
-			    	font-size: 25px; 
+			    	font-size: 20px; 
+			    	color:rgba(0,0,0,0.2);
 			    }
     		}
 		    .bottom-content{
-			    background: darken($red,20%);
-			    height: 80px;
+			    background: darken($orange,20%);
+			    height: 70px;
 			    padding-top: 30px;
 			    margin-top: -30px;
-			    border-radius: 10px;
 		    }
 		    &.disable{
 		    	.top-content{
@@ -99,7 +104,7 @@
 		    			display: none;
 		    		}
 		    		.state i{
-		    			font-size: 60px;
+		    			font-size: 35px;
 		    		}
 		    	}
 		    	.bottom-content{display:none;}
@@ -111,14 +116,14 @@
 	    margin-top: 20px;
 	    padding-top: 5px;
 	    padding-bottom: 5px;
-    	padding-left: 40px;
+    	padding-left: 50px;
 	    .coins-icon{
 			top: 13px;
 	    }
 	}
 }
 
-.group-page .slider ion-slide{
+.group-page .group-list li{
 	&.cw-blue{
 		.top-content{background: $blue;}
     	.bottom-content{background: darken($blue,20%);}

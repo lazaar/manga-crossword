@@ -31,12 +31,10 @@
 .popup-container.hints,.popup-container.cw-popup{
 	background: rgba(0,0,0,0.5);
 	.popup{
-		background: $blue;
+		background: $darkBlue;
     	color: #FFFFFF;
-    	border-radius: 20px;
     	&-head{
-    		background: lighten($blue,10%);
-    		border-top-left-radius: 20px;
+    		background: lighten($darkBlue,10%);
     		h3{
     			color: #FFFFFF;
     			font-size: 20px;
@@ -46,11 +44,10 @@
     	&-buttons{
     		padding: 0px;
 		    min-height: 45px;
-		    border-top: 5px solid $yellow;
+		    border-top: 5px solid $orange;
 		    .button{
-		    	background: darken($blue,20%);
-		    	border-color: darken($blue,20%);
-		    	border-bottom-right-radius: 20px;
+		    	background: darken($darkBlue,20%);
+		    	border-color: darken($darkBlue,20%);
 		    }
     	}
 	}
@@ -103,7 +100,7 @@
     		li{
 			    font-size: 15px;
 			    padding: 15px 0;
-			    border-bottom: 1px solid lighten($blue,10%);
+			    border-bottom: 1px solid lighten($darkBlue,10%);
 			    font-family: 'tex';
 			    position:relative;
 			    padding-right:30px;
@@ -111,8 +108,8 @@
 			    	border:none;
 			    }
 			    &.disable{
-			    	color: lighten($blue,10%);
-			    	.hint-plus{color: lighten($blue,10%);border-color: lighten($blue,10%);}
+			    	color: lighten($darkBlue,10%);
+			    	.hint-plus{color: lighten($darkBlue,10%);border-color: lighten($darkBlue,10%);}
 			    }
     		}
     		.hint-plus{
@@ -120,7 +117,7 @@
 			    right: 7px;
 			    font-family: 'mouse';
 			    color: #FFFFFF;
-			    border: 1px solid $yellow;
+			    border: 1px solid $orange;
 			    border-radius: 45px;
 			    width: 27px;
 			    display: inline-block;

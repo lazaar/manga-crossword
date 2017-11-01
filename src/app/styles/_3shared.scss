@@ -6,7 +6,7 @@
 .cw-btn{
     font-family: 'mouse';
     min-height: 40px;
-    border-radius: 10px;
+    border-radius: 35px;
     color: #FFFFFF;
     display: inline-block;
     line-height: 40px;
@@ -15,29 +15,29 @@
     text-decoration: none;
     margin-bottom: 10px;
     &.has-icon{
-    	padding-left:30px;
+    	padding-left:40px;
     	position: relative;
     	i{
     		position:absolute;
-    		left: 10px;
+    		left: 18px;
     	}
     }
 
 	&.cw-red-btn{
 		background-color: $red;
-		@include box-shadow(0px, 4px, 0px, darken($red, 20%));
+		@include box-shadow(0px, 2px, 0px, darken($red, 20%));
 	}
 	&.cw-orange-btn{
 		background-color: $orange;
-		@include box-shadow(0px, 4px, 0px, darken($orange, 20%));
+		@include box-shadow(0px, 2px, 0px, darken($orange, 20%));
 	}
 	&.cw-yellow-btn{
 		background-color: $yellow;
-		@include box-shadow(0px, 4px, 0px, darken($yellow, 20%));
+		@include box-shadow(0px, 2px, 0px, darken($yellow, 20%));
 	}
 	&.cw-blue-btn{
 		background-color: $blue;
-		@include box-shadow(0px, 4px, 0px, darken($blue, 20%));
+		@include box-shadow(0px, 2px, 0px, darken($blue, 20%));
 	}
 
 	&:active, &:focus, &.activated{
@@ -78,7 +78,7 @@ $header-height:60px;
     .cw-hints{
         font-family: 'mouse';
         font-size: 16px;
-        background: $blue;
+        background: $lightBlue;
         border: none;
         border-bottom-left-radius: 10px;
         border-top-left-radius: 10px;
@@ -116,9 +116,9 @@ $header-height:60px;
     text-align:center;
     width: 100%; 
     i{
-        font-size: 40px;
-        line-height: 50px;
-        margin: 0 10px;
+        font-size: 30px;
+        line-height: 40px;
+        margin: 0 3px;
         color: $yellow;
         display: inline-block;
         &.disable{
