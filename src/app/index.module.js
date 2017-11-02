@@ -1,6 +1,6 @@
 (function () {
     'use strict';
 
-    angular.module('crossQuestions', ['ionic', 'ngIOS9UIWebViewPatch']);
+    angular.module('mangaWords', ['ionic', 'ngIOS9UIWebViewPatch']);
 
 })();

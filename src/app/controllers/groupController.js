@@ -4,7 +4,7 @@
 (function () {
     'use strict';
     angular
-        .module('crossQuestions')
+        .module('mangaWords')
         .controller('groupController', GroupControllerFct);
 
 
@@ -62,7 +62,6 @@
             
 
             var activeSlide = (vm.level+1) === vm.currentLevel ? (vm.currentCw - 1) : 0;
-            console.log(activeSlide);
             if(activeSlide > 5){
                 $timeout(function() {
                     $location.hash('item-'+ activeSlide);

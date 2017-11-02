@@ -4,7 +4,7 @@
     /**
      * Data model
      */
-    angular.module('crossQuestions').value('dataModel', {
+    angular.module('mangaWords').value('dataModel', {
     	currentLevel:1,
     	currentCw:1,
         data: [],

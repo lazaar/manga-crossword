@@ -1,10 +1,10 @@
 (function () {
 
     'use strict';
-    angular.module('crossQuestions').constant('cqConstantes', {
-        ios:'1286430557',
-        android:'com.lazcha.crossWords',
-        facebookId:'668484603351045',
+    angular.module('mangaWords').constant('cqConstantes', {
+        ios:'1305378056',
+        android:'com.lazcha.mangaWords',
+        facebookId:'513526992359188',
         facebookUrl:'https://www.facebook.com/lazyGamesApp',
         daysBetweenShareHints:7,
         daysBetweenInviteHints:7,
@@ -26,7 +26,7 @@
         popupMessage:{
             newLevelUnlocked:'New Level unlocked',
             newCwUnlocked:'New Crossword unlocked',
-            shareTitle:'Crossboss : The best Crosswords Application',
+            shareTitle:'Manga Words : The best Crosswords Application for Manga and Anime',
             giftTitle:'Daily Gift',
             giftContent:'You recieved {coins} Coins',
         },
@@ -48,10 +48,10 @@
             interLose:0.1,
         },
         shareFacebook:{
-            sharePicture:'https://img11.hostingpics.net/pics/552678iconcopie.png',
+            sharePicture:'https://img4.hostingpics.net/pics/773132icon.jpg',
             hashTag:'CrossbossGame',
             inviteFriend:'Come join me in playing this amusing game',
-            quote:'Crossboss : The best Crosswords Application'
+            quote:'Crossboss : The best Crosswords Application for Manga and Anime'
         }
     });
 })();

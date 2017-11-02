@@ -1,7 +1,7 @@
  (function(){
     'use strict';
     angular
-        .module('crossQuestions')
+        .module('mangaWords')
         .factory('popupService', function($ionicPopup, $timeout){
 
 

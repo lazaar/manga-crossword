@@ -4,7 +4,7 @@
 (function () {
     'use strict';
     angular
-        .module('crossQuestions')
+        .module('mangaWords')
         .controller('crossWordController', CrossWordControllerFct);
 
 

@@ -2,12 +2,12 @@
     'use strict';
 
     /**
-     * @module crossQuestions
+     * @module mangaWords
      *
      * @description Helper pour la persistence des données de l'application
      *
      */
-    angular.module('crossQuestions').factory('storageHelper', StorageHelper);
+    angular.module('mangaWords').factory('storageHelper', StorageHelper);
 
     function StorageHelper($log, cqConstantes) {
 

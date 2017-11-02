@@ -1,7 +1,7 @@
  (function(){
     'use strict';
     angular
-        .module('crossQuestions')
+        .module('mangaWords')
         .factory('starService', function(storageHelper,soundService, dataModel, popupService, cqConstantes){
 
         // ############################################# //

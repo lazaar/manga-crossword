@@ -1,7 +1,7 @@
  (function(){
     'use strict';
     angular
-        .module('crossQuestions')
+        .module('mangaWords')
         .factory('soundService', function(cqConstantes, storageHelper, dataModel){
 
             var backgroundMusic,

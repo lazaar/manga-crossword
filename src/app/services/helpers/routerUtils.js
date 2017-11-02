@@ -1,7 +1,7 @@
 (function () {
     'use strict';
 
-    angular.module('crossQuestions').factory('routerHelper', function ($state) {
+    angular.module('mangaWords').factory('routerHelper', function ($state) {
 
         // ################################### //
         // ######## PUBLIC BUSINESS ########## //

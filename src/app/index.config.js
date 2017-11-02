@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('crossQuestions')
+        .module('mangaWords')
         .config(config)
         .config(routes);
 

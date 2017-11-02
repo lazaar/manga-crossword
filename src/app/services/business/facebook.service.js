@@ -1,7 +1,7 @@
  (function(){
     'use strict';
     angular
-        .module('crossQuestions')
+        .module('mangaWords')
         .factory('facebookService', function(storageHelper, analyticsService, cqConstantes, coinsService){
 
           var isConnected = false, facebookProfile={};

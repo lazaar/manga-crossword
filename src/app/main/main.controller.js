@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('crossQuestions')
+        .module('mangaWords')
         //Controller of the main page
         .controller('MainController', function (routerHelper,$state,dataModel, analyticsService, cqConstantes, soundService, starService, dataService, $ionicHistory) {
 

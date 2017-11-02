@@ -15,6 +15,58 @@
       },
       "oauth_client": [
         {
+          "client_id": "63119111167-j3m3bveouom065b9eqfrp3iqbtrm8rlb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lazcha.crossWords",
+            "certificate_hash": "f27bcd2f9cc2a1b4963c8164a5f12d4587411db9"
+          }
+        },
+        {
+          "client_id": "63119111167-b5mfmkqer7dlrl1nfs6c2ukt2kkqksg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFv8VLw7buPiS8Q6CuMrVq3_Cz74hzr9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63119111167-v7cqogbld5na4b7vjntmg732g89fk81d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lazcha.mangaWords",
+                "app_store_id": "1305378056"
+              }
+            },
+            {
+              "client_id": "63119111167-b5mfmkqer7dlrl1nfs6c2ukt2kkqksg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63119111167:android:1c7daa2658c10c4b",
+        "android_client_info": {
+          "package_name": "com.lazcha.mangaWords"
+        }
+      },
+      "oauth_client": [
+        {
           "client_id": "63119111167-b5mfmkqer7dlrl1nfs6c2ukt2kkqksg0.apps.googleusercontent.com",
           "client_type": 3
         }
