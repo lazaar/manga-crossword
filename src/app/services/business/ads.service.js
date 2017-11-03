@@ -14,16 +14,16 @@
             if(typeof device !== 'undefined' && device.platform === 'Android')
             {
                 admobid = {
-                  banner: 'ca-app-pub-3935970661666157/7182816029',
-                  inter: 'ca-app-pub-3935970661666157/3888592368',
-                  video: 'ca-app-pub-3935970661666157/6075293075'
+                  banner: 'ca-app-pub-3935970661666157/7380889781',
+                  inter: 'ca-app-pub-3935970661666157/9580388159',
+                  video: 'ca-app-pub-3935970661666157/7580910777'
                 };
             }
             else{
                 admobid = {
-                  banner: 'ca-app-pub-3935970661666157/5817763461',
-                  inter: 'ca-app-pub-3935970661666157/1721594022',
-                  video: 'ca-app-pub-3935970661666157/2379590644'
+                  banner: 'ca-app-pub-3935970661666157/3561774717',
+                  inter: 'ca-app-pub-3935970661666157/8962275204',
+                  video: 'ca-app-pub-3935970661666157/5421651297'
                 };
             }
 
