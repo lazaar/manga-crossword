@@ -5,7 +5,7 @@
 	/**
 	 * @description constantes de configuration pour l'application Cross Questions 
 	 */
-	angular.module('crossQuestions').constant('configConstantes', {
+	angular.module('mangaWords').constant('configConstantes', {
 
 	    logDebug: '@@logDebug',
 

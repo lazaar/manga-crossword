@@ -12,8 +12,8 @@
             AppRate.preferences.storeAppURL= {
                 ios: cqConstantes.ios,
                 android: 'market://details?id='+cqConstantes.android
-              
             };
+            AppRate.preferences.usesUntilPrompt = 2;
         };
 
         var toggleSounds=function(){
