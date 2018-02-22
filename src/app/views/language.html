@@ -1,0 +1,29 @@
+<ion-content class="language-page" scroll="false">
+  <div class="logo">
+    <img src="assets/images/logo.png" alt="logo">
+  </div>
+  <ul class="language-list clearfix">
+    <li ng-click="vm.changeLanguage('en')" ng-class="{'checked':vm.language == 'en'}">
+      <img src="assets/images/en.png" alt="English">
+      <span>English <i class="ion-checkmark-round"></i></span>
+    </li>
+    <li ng-click="vm.changeLanguage('fr')" ng-class="{'checked':vm.language == 'fr'}">
+      <img src="assets/images/fr.png" alt="Francais">
+      <span>Français <i class="ion-checkmark-round"></i></span>
+    </li>
+    <li class="disable">
+      <img src="assets/images/es.png" alt="Francais">
+      <span>Coming soon <i class="ion-checkmark-round"></i></span>
+    </li>
+    <li class="disable">
+      <img src="assets/images/ru.png" alt="Francais">
+      <span>Coming soon <i class="ion-checkmark-round"></i></span>
+    </li>
+  </ul>
+  <div class="main-menu clearfix">
+    <div class="btn-wrapper" ng-class="{'inline-btn':!vm.isFirst}">
+      <a href="" ng-click="mainCtrl.goBack()" class="cw-btn cw-red-btn has-icon" ng-if="!vm.isFirst"><i class="ion-ios-arrow-back"></i>{{'Back' | translate}}</a>
+      <a href="" ng-click="vm.saveLanguage()" class="cw-btn cw-blue-btn has-icon"><i class="ion-play"></i>{{vm.isFirst ? 'next':'Save' | translate}}</a>
+    </div>
+  </div>
+</ion-content>

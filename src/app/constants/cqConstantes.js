@@ -11,6 +11,7 @@
         states:{        
             home:'home',
             about:'about',
+            language:'language',
             levels:'levels',
             group:'group',
             crossWord:'crossWord',
@@ -20,15 +21,9 @@
             correctedQuestions : 'correctedQuestions',
             letters:'letters',
             facebook:'facebook',
+            language:'language',
             playInfo:'playInfo',
             coinsList:'coinsList'
-        },
-        popupMessage:{
-            newLevelUnlocked:'New Level unlocked',
-            newCwUnlocked:'New Crossword unlocked',
-            shareTitle:'Manga Words : The best Crosswords Application for Manga and Anime',
-            giftTitle:'Daily Gift',
-            giftContent:'You recieved {coins} Coins',
         },
         sounds:{
             backgroundMusic:'assets/sounds/game.mp3',
@@ -49,9 +44,9 @@
         },
         shareFacebook:{
             sharePicture:'https://img4.hostingpics.net/pics/773132icon.jpg',
-            hashTag:'CrossbossGame',
+            hashTag:'AnimeCrossWords',
             inviteFriend:'Come join me in playing this amusing game',
-            quote:'Crossboss : The best Crosswords Application for Manga and Anime'
+            quote:'The best Crosswords Application for Manga and Anime'
         }
     });
 })();

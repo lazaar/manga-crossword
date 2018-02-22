@@ -37,6 +37,10 @@
 		    margin-bottom: 0;
 		    font-weight: 200;
 		    font-size: 16px;
+		    &.long-text{
+		    	height: 100%;
+		    	overflow: auto;
+		    }
 	    }
 	    .img{
 		    height: 100%;

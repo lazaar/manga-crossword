@@ -1,0 +1,4857 @@
+[
+   {
+      "crosswords": [
+         {
+            "width" : 11,
+            "height" : 13,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/pikachu.jpg",
+                  "type":"image",
+                  "answer":"pikachu",
+                  "letters":"HJMachijkpu" 
+               },
+               {
+                  "x": 0,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/katsuki.jpg",
+                  "type":"image",
+                  "answer":"katsuki",
+                  "letters":"Faikkprsttu" 
+               },
+               {
+                  "x": 3,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/sasuke.jpg",
+                  "type":"image",
+                  "answer":"sasuke",
+                  "letters":"QZadekssux" 
+               },
+               {
+                  "x": 5,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/goku.jpg",
+                  "type":"image",
+                  "answer":"goku",
+                  "letters":"KNNgkouy" 
+               },
+               {
+                  "x": 2,
+                  "y": 7,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Fairy tails Quel type de tueur de dragon est Gajeel Redfox?",
+                  "type":"text",
+                  "answer":"lefer",
+                  "letters":"BIYeeflnr" 
+               },
+               {
+                  "x": 2,
+                  "y": 7,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/light.jpg",
+                  "type":"image",
+                  "answer":"light",
+                  "letters":"INghilopt" 
+               },
+               {
+                  "x": 6,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Attaque sur les titans: le mur extérieur est le mur ___",
+                  "type":"text",
+                  "answer":"maria",
+                  "letters":"Vaabdimrw" 
+               },
+               {
+                  "x": 4,
+                  "y": 7,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"One Piece: Quel personnage 'One Piece' est le menuisier qui s'est transformé en cyborg?",
+                  "type":"text",
+                  "answer":"franky",
+                  "letters":"AFHafknory" 
+               },
+               {
+                  "x": 6,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/angel.jpg",
+                  "type":"image",
+                  "answer":"angel",
+                  "letters":"aaeglnwxz" 
+               },
+               {
+                  "x": 9,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Dragonball Z: Combien de dragons y a-t-il?",
+                  "type":"text",
+                  "answer":"sept",
+                  "letters":"AEbenpst" 
+               }
+            ]
+         },
+         {
+            "width" : 10,
+            "height" : 17,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Gintama: Qui porte des lunettes et vit dans un dojo avec sa soeur",
+                  "type":"text",
+                  "answer":"shinpachi",
+                  "letters":"Wacdhhiinpsuz" 
+               },
+               {
+                  "x": 0,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Boku No Hero: Qui est le personnage principal?",
+                  "type":"text",
+                  "answer":"izuku",
+                  "letters":"Rgiklluuz" 
+               },
+               {
+                  "x": 0,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Fullmetal Alchemist: Edward et son frère étaient à la recherche de la â€¦.. du philosophe ",
+                  "type":"text",
+                  "answer":"pierre",
+                  "letters":"Maeeginprr" 
+               },
+               {
+                  "x": 5,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Anime",
+                  "content":"assets/images/content/deathnote.jpg",
+                  "type":"image",
+                  "answer":"deathnote",
+                  "letters":"MNUadeehnoqtt" 
+               },
+               {
+                  "x": 1,
+                  "y": 9,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Steins Gate: Un texte envoyé au passé s'appelle un",
+                  "type":"text",
+                  "answer":"dmail",
+                  "letters":"Aadiijlmu" 
+               },
+               {
+                  "x": 1,
+                  "y": 10,
+                  "direction":"v", 
+                  "title":"Anime",
+                  "content":"assets/images/content/monster.jpg",
+                  "type":"image",
+                  "answer":"monster",
+                  "letters":"HPdegmnorst" 
+               },
+               {
+                  "x": 7,
+                  "y": 10,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Sword Art Online: quel est le type d'épée Asuna?",
+                  "type":"text",
+                  "answer":"rapiere",
+                  "letters":"EPQYaeeiprr" 
+               },
+               {
+                  "x": 2,
+                  "y": 8,
+                  "direction":"v",
+                  "title":"Personnage",
+                  "content":"assets/images/content/amano.jpg",
+                  "type":"image",
+                  "answer":"amano",
+                  "letters":"CDaadmnow" 
+               },
+               {
+                  "x": 4,
+                  "y": 16,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/kaneki.jpg",
+                  "type":"image",
+                  "answer":"kaneki",
+                  "letters":"HIZZaeikkn" 
+               },
+               {
+                  "x": 9,
+                  "y": 10,
+                  "direction":"h", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/kakashi.jpg",
+                  "type":"image",
+                  "answer":"kakashi",
+                  "letters":"kasoiakahqhe" 
+               }
+            ]
+         },
+         {
+            "width" : 11,
+            "height" : 13,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 2,
+                  "direction":"h", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/elizabeth.jpg",
+                  "type":"image",
+                  "answer":"elizabeth",
+                  "letters":"abeehillrstxz" 
+               },
+               {
+                  "x": 0,
+                  "y": 8,
+                  "direction":"v",
+                  "title":"Personnage",
+                  "content":"assets/images/content/eren.jpg",
+                  "type":"image",
+                  "answer":"eren",
+                  "letters":"Meeinrrx" 
+               },
+               {
+                  "x": 2,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/hiyori.jpg",
+                  "type":"image",
+                  "answer":"hiyori",
+                  "letters":"GGehiioqry" 
+               },
+               {
+                  "x": 0,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/leorio.jpg",
+                  "type":"image",
+                  "answer":"leorio",
+                  "letters":"Nceeiiloor" 
+               },
+               {
+                  "x": 4,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Code Geass: Quelle est le plat préférée de C.C.?",
+                  "type":"text",
+                  "answer":"pizza",
+                  "letters":"Magiknpzz" 
+               },
+               {
+                  "x": 3,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Anime",
+                  "content":"assets/images/content/parasyte.jpg",
+                  "type":"image",
+                  "answer":"parasyte",
+                  "letters":"ADHIaaeprsty" 
+               },
+               {
+                  "x": 9,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/saitama.jpg",
+                  "type":"image",
+                  "answer":"saitama",
+                  "letters":"GINaaaimrst" 
+               },
+               {
+                  "x": 4,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/killua.jpg",
+                  "type":"image",
+                  "answer":"killua",
+                  "letters":"WYaeikllru" 
+               },
+               {
+                  "x": 4,
+                  "y": 9,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Death note: Quel était le surnom de Light?",
+                  "type":"text",
+                  "answer":"kira",
+                  "letters":"QZabikru" 
+               },
+               {
+                  "x": 4,
+                  "y": 11,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Cowboy bebop: Ce personnage a été mélangé avec quelques mauvais types, mais tout ce qu'il voulait était de payer les factures médicales énormes de sa sœur.",
+                  "type":"text",
+                  "answer":"roco",
+                  "letters":"cjooorrz" 
+               }
+            ]
+         },
+         {
+            "width" : 12,
+            "height" : 10,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Bleach: Comment sont les épées de Soul Reapers appelées?",
+                  "type":"text",
+                  "answer":"zanpakuto",
+                  "letters":"Caabcknoptuzz" 
+               },
+               {
+                  "x": 5,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/lelouch.jpg",
+                  "type":"image",
+                  "answer":"lelouch",
+                  "letters":"HQXcehllouy" 
+               },
+               {
+                  "x": 0,
+                  "y": 7,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/touka.jpg",
+                  "type":"image",
+                  "answer":"touka",
+                  "letters":"HOPakotuv" 
+               },
+               {
+                  "x": 2,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Pokémon: Quel type de Pokémon est Charmander?",
+                  "type":"text",
+                  "answer":"feu",
+                  "letters":"Laefsux" 
+               },
+               {
+                  "x": 4,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/agasa.jpg",
+                  "type":"image",
+                  "answer":"agasa",
+                  "letters":"Taaaacgjs" 
+               },
+               {
+                  "x": 4,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/akane.jpg",
+                  "type":"image",
+                  "answer":"akane",
+                  "letters":"CSaaaeknw" 
+               },
+               {
+                  "x": 8,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/okabe.jpg",
+                  "type":"image",
+                  "answer":"okabe",
+                  "letters":"OQZabekov" 
+               },
+               {
+                  "x": 10,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/ichigo.jpg",
+                  "type":"image",
+                  "answer":"ichigo",
+                  "letters":"JLbcfghiio" 
+               },
+               {
+                  "x": 1,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Naruto / shippuden: qu'est-ce que naruto veut être?",
+                  "type":"text",
+                  "answer":"hokage",
+                  "letters":"Laeeghkory" 
+               },
+               {
+                  "x": 7,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"L'humain dont ____ est écrit dans cette note mourra.",
+                  "type":"text",
+                  "answer":"nom",
+                  "letters":"EFXcmno" 
+               }
+            ]
+         },
+         {
+            "width" : 14,
+            "height" : 11,
+            "questions" : [
+               {
+                  "x": 1,
+                  "y": 1,
+                  "direction":"h", 
+                  "title":"Question",
+                  "content":"GTO: Qui est la personne qui essaie toujours de faire virer Onizuka?",
+                  "type":"text",
+                  "answer":"uchyimada",
+                  "letters":"DLaacdfhimquy" 
+               },
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/fuko.jpg",
+                  "type":"image",
+                  "answer":"fuko",
+                  "letters":"Gcfkmoru" 
+               },
+               {
+                  "x": 5,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/date.jpg",
+                  "type":"image",
+                  "answer":"date",
+                  "letters":"Gadekotu" 
+               },
+               {
+                  "x": 3,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/ooyama.jpg",
+                  "type":"image",
+                  "answer":"ooyama",
+                  "letters":"Gaagmmooyy" 
+               },
+               {
+                  "x": 3,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Anime",
+                  "content":"assets/images/content/onepiece.jpg",
+                  "type":"image",
+                  "answer":"onepiece",
+                  "letters":"CLNceeeiinop" 
+               },
+               {
+                  "x": 0,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/edward.jpg",
+                  "type":"image",
+                  "answer":"edward",
+                  "letters":"GSWadderrw" 
+               },
+               {
+                  "x": 7,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/spike.jpg",
+                  "type":"image",
+                  "answer":"spike",
+                  "letters":"Qeijkpsty" 
+               },
+               {
+                  "x": 10,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/klein.jpg",
+                  "type":"image",
+                  "answer":"klein",
+                  "letters":"Xeiiklnpy" 
+               },
+               {
+                  "x": 10,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/koro.jpg",
+                  "type":"image",
+                  "answer":"koro",
+                  "letters":"gknooprt" 
+               },
+               {
+                  "x": 13,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/zoro.jpg",
+                  "type":"image",
+                  "answer":"zoro",
+                  "letters":"Oioorrtz" 
+               }
+            ]
+         },
+         {
+            "width" : 14,
+            "height" : 12,
+            "questions" : [
+               {
+                  "x": 3,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Steins Gate: Dans quelle zone de Tokyo Steins Gate a lieu",
+                  "type":"text",
+                  "answer":"akihabara",
+                  "letters":"Gaaaabehikoqr" 
+               },
+               {
+                  "x": 5,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/izaya.jpg",
+                  "type":"image",
+                  "answer":"izaya",
+                  "letters":"RRaafilyz" 
+               },
+               {
+                  "x": 11,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Shokugeki no Souma: qui a obtenu le meilleur score aux élections préliminaires d'automne",
+                  "type":"text",
+                  "answer":"alice",
+                  "letters":"BLaceiluz" 
+               },
+               {
+                  "x": 7,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/pride.jpg",
+                  "type":"image",
+                  "answer":"pride",
+                  "letters":"CCNdeiprz" 
+               },
+               {
+                  "x": 9,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/shiro.jpg",
+                  "type":"image",
+                  "answer":"shiro",
+                  "letters":"afghilors" 
+               },
+               {
+                  "x": 7,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Code Geass: Shirley a dit à Lelouch quel membre de sa famille avait été tué à Narita, qui était-ce?",
+                  "type":"text",
+                  "answer":"pere",
+                  "letters":"ARWeehpr" 
+               },
+               {
+                  "x": 6,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/mew.jpg",
+                  "type":"image",
+                  "answer":"mew",
+                  "letters":"PUeemnw" 
+               },
+               {
+                  "x": 0,
+                  "y": 3,
+                  "direction":"v",
+                  "title":"Question",
+                  "content":"Steins Gate: Quel est le passe-temps préféré de Mayuris?",
+                  "type":"text",
+                  "answer":"cosplay",
+                  "letters":"FMacklnopsy" 
+               },
+               {
+                  "x": 0,
+                  "y": 3,
+                  "direction":"h", 
+                  "title":"Question",
+                  "content":"Naruto / shippuden: Quel jutsu Kakashi a-t-il enseigné à Sasuke?",
+                  "type":"text",
+                  "answer":"chidori",
+                  "letters":"FTcdhiilort" 
+               },               {
+                  "x": 13,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/conan.jpg",
+                  "type":"image",
+                  "answer":"conan",
+                  "letters":"EMNacnnov" 
+               }
+            ]
+         },
+         {
+            "width" : 12,
+            "height" : 12,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Gintama: qu'est-ce que Kagura aime manger?",
+                  "type":"text",
+                  "answer":"sukonbus",
+                  "letters":"BDLQbknossuu" 
+               },
+               {
+                  "x": 3,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/jiraiya.jpg",
+                  "type":"image",
+                  "answer":"jiraiya",
+                  "letters":"CDOaaiijrwy" 
+               },
+               {
+                  "x": 2,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/misa.jpg",
+                  "type":"image",
+                  "answer":"misa",
+                  "letters":"GKWaimrs" 
+               },
+               {
+                  "x": 0,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/nami.jpg",
+                  "type":"image",
+                  "answer":"nami",
+                  "letters":"Eaaeimnx" 
+               },
+               {
+                  "x": 2,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"quel est le vrai nom de panther?",
+                  "type":"text",
+                  "answer":"patrick",
+                  "letters":"CWYaciklprt" 
+               },
+               {
+                  "x": 5,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/makise.jpg",
+                  "type":"image",
+                  "answer":"makise",
+                  "letters":"DGaeikmnrs" 
+               },
+               {
+                  "x": 8,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Bleach: Quelle version initiale de Zanpakuto est activée par le mot de commande \"Growl\"?",
+                  "type":"text",
+                  "answer":"haineko",
+                  "letters":"FIPaehikkno" 
+               },
+               {
+                  "x": 5,
+                  "y": 6,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"One Piece: Quel est le nom du zombie que Moria a laissé posséder l'ombre de Brooke dans le Thriller Bark Arc?",
+                  "type":"text",
+                  "answer":"ryuuma",
+                  "letters":"GIacmruuyy" 
+               },
+               {
+                  "x": 3,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Tokyo Ghoul: Qui tue Mado?",
+                  "type":"text",
+                  "answer":"touka",
+                  "letters":"BQYZakotu" 
+               },
+               {
+                  "x": 8,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Queues de fées: Quel membre de Fairy Tail était souvent appelé 'Titania'?",
+                  "type":"text",
+                  "answer":"erza",
+                  "letters":"BLaaertz" 
+               }
+            ]
+         },
+         {
+            "width" : 14,
+            "height" : 11,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Death Note: race d'êtres extradimensionnels qui survivent en tuant des humains pour prolonger leur vie.",
+                  "type":"text",
+                  "answer":"shinigami",
+                  "letters":"FLZaghiiimnqs" 
+               },
+               {
+                  "x": 5,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/genos.jpg",
+                  "type":"image",
+                  "answer":"genos",
+                  "letters":"CReegnosv" 
+               },
+               {
+                  "x": 3,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Qui est le musicien squelette vivant dans 'One Piece'?",
+                  "type":"text",
+                  "answer":"brook",
+                  "letters":"LObkooqrr" 
+               },
+               {
+                  "x": 7,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/okumura.jpg",
+                  "type":"image",
+                  "answer":"okumura",
+                  "letters":"OXakmorsuuz" 
+               },
+               {
+                  "x": 6,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/kagura.jpg",
+                  "type":"image",
+                  "answer":"kagura",
+                  "letters":"IZaadgkqru" 
+               },
+               {
+                  "x": 9,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/taiga.jpg",
+                  "type":"image",
+                  "answer":"taiga",
+                  "letters":"Laabcgitv" 
+               },
+               {
+                  "x": 13,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Cowboy bebop: Qui est-ce que Spike va chercher de temps en temps?",
+                  "type":"text",
+                  "answer":"julia",
+                  "letters":"RUZaijlnu" 
+               },
+               {
+                  "x": 11,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Fullmetal Alchemist confrérie: Où dans le corps est la cicatrice de Scar qui donne naissance àson nom?",
+                  "type":"text",
+                  "answer":"visage",
+                  "letters":"PYaegistuv" 
+               },
+               {
+                  "x": 10,
+                  "y": 10,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Attaque sur Titans: A cause de qui se transforme Eren en un titan?",
+                  "type":"text",
+                  "answer":"pere",
+                  "letters":"NWeeippr" 
+               },
+               {
+                  "x": 13,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/ace.jpg",
+                  "type":"image",
+                  "answer":"ace",
+                  "letters":"JTacelt" 
+               }
+            ]
+         },
+         {
+            "width" : 10,
+            "height" : 14,
+            "questions" : [
+               {
+                  "x": 9,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/snorlax.jpg",
+                  "type":"image",
+                  "answer":"snorlax",
+                  "letters":"ksarxloagnw" 
+               },
+               {
+                  "x": 0,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Kuroko No Basketball: kusaga ryuhei joue avec quelle équipe?",
+                  "type":"text",
+                  "answer":"masakuni",
+                  "letters":"KMaaikmnsuuw" 
+               },
+               {
+                  "x": 3,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Tokyo Ghoul: quel est le nom du café qui a accueilli Kaneki?",
+                  "type":"text",
+                  "answer":"anteiku",
+                  "letters":"Eadefikmntu" 
+               },
+               {
+                  "x": 7,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Quel membre Akatsuki est tué dans une bataille avec Sasuke?",
+                  "type":"text",
+                  "answer":"deidara",
+                  "letters":"DRTaaddeirx" 
+               },
+               {
+                  "x": 2,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/levi.jpg",
+                  "type":"image",
+                  "answer":"levi",
+                  "letters":"aceilprv" 
+               },
+               {
+                  "x": 6,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/maka.jpg",
+                  "type":"image",
+                  "answer":"maka",
+                  "letters":"Jaahjkmu" 
+               },
+               {
+                  "x": 2,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/yugi.jpg",
+                  "type":"image",
+                  "answer":"yugi",
+                  "letters":"PTgijluy" 
+               },
+               {
+                  "x": 5,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/minori.jpg",
+                  "type":"image",
+                  "answer":"minori",
+                  "letters":"Biijkmnorw" 
+               },
+               {
+                  "x": 2,
+                  "y": 11,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Cowboy bebop: Que Faye est censée recevoir d'un joueur quand elle travaille dans un casino?",
+                  "type":"text",
+                  "answer":"jeton",
+                  "letters":"OPZdejnot" 
+               },
+               {
+                  "x": 4,
+                  "y": 13,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/winry.jpg",
+                  "type":"image",
+                  "answer":"winry",
+                  "letters":"Icdhinrwy" 
+               }
+            ]
+         },
+         {
+            "width" : 13,
+            "height" : 11,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Sword Art Online: Quel groupe avait prévu une attaque lors de la réunion de la course Cait Sith et de la course Sylph?",
+                  "type":"text",
+                  "answer":"salamandre",
+                  "letters":"FVaaadeklmnqrs" 
+               },
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"One Punch Man Quel est le nom réel de one man punch?",
+                  "type":"text",
+                  "answer":"saitama",
+                  "letters":"Yaaaimnnstx" 
+               },
+               {
+                  "x": 6,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Attack On Titans: Qui enseigne à Eren un mouvement rapide et efficace dans l'entraînement?",
+                  "type":"text",
+                  "answer":"annie",
+                  "letters":"AKadeinnt" 
+               },
+               {
+                  "x": 0,
+                  "y": 7,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Monster : Qui suit Tenma",
+                  "type":"text",
+                  "answer":"dieter",
+                  "letters":"CUWdeeirst" 
+               },
+               {
+                  "x": 3,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/shoto.jpg",
+                  "type":"image",
+                  "answer":"shoto",
+                  "letters":"Qhloooost" 
+               },
+               {
+                  "x": 6,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/izuki.jpg",
+                  "type":"image",
+                  "answer":"izuki",
+                  "letters":"Tbbiikruz" 
+               },
+               {
+                  "x": 9,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Attaque sur les titans: Le deuxième mur le plus à l'extérieur est wall ___",
+                  "type":"text",
+                  "answer":"rose",
+                  "letters":"BNTeorst" 
+               },
+               {
+                  "x": 5,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/anri.jpg",
+                  "type":"image",
+                  "answer":"anri",
+                  "letters":"adeinnrr" 
+               },
+               {
+                  "x": 10,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Cowboy bebop: Quelle partie du corps de Spike est une prothèse?",
+                  "type":"text",
+                  "answer":"oeil",
+                  "letters":"NUeiloux" 
+               },
+               {
+                  "x": 12,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"One Piece: Combien y a-t-il de seigneurs de guerre de la mer au début?",
+                  "type":"text",
+                  "answer":"sept",
+                  "letters":"GMenpstw" 
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "crosswords": [
+         {
+            "width" : 10,
+            "height" : 13,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"assets/images/content/franky.jpg",
+                  "type":"image",
+                  "answer":"franky",
+                  "letters":"krsokfanany" 
+               },
+               {
+                  "x": 0,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/ayumi.jpg",
+                  "type":"image",
+                  "answer":"ayumi",
+                  "letters":"KOTTaimuy" 
+               },
+               {
+                  "x": 2,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/yuno.jpg",
+                  "type":"image",
+                  "answer":"yuno",
+                  "letters":"Lnnoruyz" 
+               },
+               {
+                  "x": 4,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Hunter X Hunter: quel est le nom du père de Gon",
+                  "type":"text",
+                  "answer":"ging",
+                  "letters":"IIfggikn" 
+               },
+               {
+                  "x": 4,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/gino.jpg",
+                  "type":"image",
+                  "answer":"gino",
+                  "letters":"IZginovw" 
+               },
+               {
+                  "x": 7,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/shougo.jpg",
+                  "type":"image",
+                  "answer":"shougo",
+                  "letters":"DDNghloosu" 
+               },
+               {
+                  "x": 4,
+                  "y": 7,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/satotz.jpg",
+                  "type":"image",
+                  "answer":"satotz",
+                  "letters":"DJaimosttz" 
+               },
+               {
+                  "x": 4,
+                  "y": 7,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/silica.jpg",
+                  "type":"image",
+                  "answer":"silica",
+                  "letters":"JPVaciilsx" 
+               },
+               {
+                  "x": 1,
+                  "y": 12,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/hinami.jpg",
+                  "type":"image",
+                  "answer":"hinami",
+                  "letters":"CLXabhiimn" 
+               },
+               {
+                  "x": 9,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/yuzuru.jpg",
+                  "type":"image",
+                  "answer":"yuzuru",
+                  "letters":"ABloruuuyz" 
+               }
+            ]
+         },
+         {
+            "width" : 13,
+            "height" : 14,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/cornelia.jpg",
+                  "type":"image",
+                  "answer":"cornelia",
+                  "letters":"ETacehilnorr" 
+               },
+               {
+                  "x": 0,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Dragonball Z: Qui enseigne à Goku le Kamehame-Ha?",
+                  "type":"text",
+                  "answer":"roshi",
+                  "letters":"hhimoorsz" 
+               },
+               {
+                  "x": 2,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/satsuki.jpg",
+                  "type":"image",
+                  "answer":"satsuki",
+                  "letters":"Jabiikssttu" 
+               },
+               {
+                  "x": 4,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Boku No Hero: Combien de% humains n'ont pas de superpouvoirs?",
+                  "type":"text",
+                  "answer":"vingt",
+                  "letters":"AAghintuv" 
+               },
+               {
+                  "x": 2,
+                  "y": 7,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Boku No Hero: Qui est le rival du personnage principal?",
+                  "type":"text",
+                  "answer":"katsuki",
+                  "letters":"CPacdikkstu" 
+               },
+               {
+                  "x": 6,
+                  "y": 6,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Hunter X Hunter: la capacité de Hisoka de nen",
+                  "type":"text",
+                  "answer":"bungee",
+                  "letters":"LOWbeefgnu" 
+               },
+               {
+                  "x": 8,
+                  "y": 6,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/hisoka.jpg",
+                  "type":"image",
+                  "answer":"hisoka",
+                  "letters":"Gaehikopsz" 
+               },
+               {
+                  "x": 8,
+                  "y": 10,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/kouta.jpg",
+                  "type":"image",
+                  "answer":"kouta",
+                  "letters":"UUaikkotu" 
+               },
+               {
+                  "x": 12,
+                  "y": 9,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/kaori.jpg",
+                  "type":"image",
+                  "answer":"kaori",
+                  "letters":"GRTaikopr" 
+               },
+               {
+                  "x": 10,
+                  "y": 8,
+                  "direction":"h", 
+                  "title":"Question",
+                  "content":"Death Note: Quel est le nom du shinigami qui a laissé tomber son Death Note à Light?",
+                  "type":"text",
+                  "answer":"ryuk",
+                  "letters":"Ljkklruy" 
+               }
+            ]
+         },
+         {
+            "width" : 11,
+            "height" : 13,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/krillin.jpg",
+                  "type":"image",
+                  "answer":"krillin",
+                  "letters":"ACWZiikllnr" 
+               },
+               {
+                  "x": 2,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Steins Gate: Rintaro donne un surnom à Moeka: Shining _____",
+                  "type":"text",
+                  "answer":"finger",
+                  "letters":"BHVefginrw" 
+               },
+               {
+                  "x": 2,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Queues de fées: Quel est le nom du pays dans lequel se trouvent les personnages?",
+                  "type":"text",
+                  "answer":"fiore",
+                  "letters":"BIPefimor" 
+               },
+               {
+                  "x": 0,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/naruto.jpg",
+                  "type":"image",
+                  "answer":"naruto",
+                  "letters":"Eabnortuwz" 
+               },
+               {
+                  "x": 4,
+                  "y": 6,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Bleach: Qu'est-ce que Bankai d'Ichigo?",
+                  "type":"text",
+                  "answer":"tensa",
+                  "letters":"BLORaenst" 
+               },
+               {
+                  "x": 2,
+                  "y": 9,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/migi.jpg",
+                  "type":"image",
+                  "answer":"migi",
+                  "letters":"GRaegiim" 
+               },
+               {
+                  "x": 2,
+                  "y": 10,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/itaru.jpg",
+                  "type":"image",
+                  "answer":"itaru",
+                  "letters":"IIailrtuv" 
+               },
+               {
+                  "x": 1,
+                  "y": 12,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/mikasa.jpg",
+                  "type":"image",
+                  "answer":"mikasa",
+                  "letters":"KNUaabikms" 
+               },
+               {
+                  "x": 6,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Dragonball Z: qui était le bras droit de Cooler que Piccolo tue?",
+                  "type":"text",
+                  "answer":"sauza",
+                  "letters":"GHMaaqsuz" 
+               },
+               {
+                  "x": 6,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Fullmetal Alchemist: Quel Homonculus entre dans Fort Briggs à travers le sol?",
+                  "type":"text",
+                  "answer":"sloth",
+                  "letters":"DMdhllost" 
+               }
+            ]
+         },
+         {
+            "width" : 11,
+            "height" : 16,
+            "questions" : [
+               {
+                  "x": 2,
+                  "y": 0,
+                  "direction":"v",
+                  "title":"Question",
+                  "content":"Code Geass: Le Ganymede est considéré comme dans quelle génération de cadre Knightmare?",
+                  "type":"text",
+                  "answer":"troisieme",
+                  "letters":"AKXeiimoqrste" 
+               },
+               {
+                  "x": 4,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/onizuka.jpg",
+                  "type":"image",
+                  "answer":"onizuka",
+                  "letters":"ahikmnosuyz" 
+               },
+               {
+                  "x": 2,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/meiko.jpg",
+                  "type":"image",
+                  "answer":"meiko",
+                  "letters":"BMeijkmoz" 
+               },
+               {
+                  "x": 0,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"L'alchimiste de la flamme est qui?",
+                  "type":"text",
+                  "answer":"mustang",
+                  "letters":"PUagjmnqstu" 
+               },
+               {
+                  "x": 6,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Dragonball Z: Je suis le Prince de tous les Saiyans! ?",
+                  "type":"text",
+                  "answer":"vegeta",
+                  "letters":"GNaeegkktv" 
+               },
+               {
+                  "x": 5,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/gajeel.jpg",
+                  "type":"image",
+                  "answer":"gajeel",
+                  "letters":"IJNaeegjlv" 
+               },
+               {
+                  "x": 4,
+                  "y": 10,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Sword Art Online: Kirito a rencontré un dompteur nommé Silica dont le familier, Pina, de quel type était ce bêtes ?",
+                  "type":"text",
+                  "answer":"dragon",
+                  "letters":"Kabdgknort" 
+               },
+               {
+                  "x": 3,
+                  "y": 12,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/kaiji.jpg",
+                  "type":"image",
+                  "answer":"kaiji",
+                  "letters":"aiijkmoxy" 
+               },
+               {
+                  "x": 7,
+                  "y": 9,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Queues de fées: Lyon Bastia a le béguin pour qui?",
+                  "type":"text",
+                  "answer":"juvia",
+                  "letters":"ALRaijpuv" 
+               },
+               {
+                  "x": 10,
+                  "y": 7,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/bulbasaur.jpg",
+                  "type":"image",
+                  "answer":"bulbasaur",
+                  "letters":"TVaabbllrssuu" 
+               }
+            ]
+         },
+         {
+            "width" : 14,
+            "height" : 13,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Hunter X Hunter: quelle est la capacité de kurapika nen",
+                  "type":"text",
+                  "answer":"chaines",
+                  "letters":"GZacehnswxi" 
+               },
+               {
+                  "x": 6,
+                  "y": 12,
+                  "direction":"v",
+                  "title":"Question",
+                  "content":"Code Geass: Après la mort du prince Clovis, qui est devenu vice-roi de la zone 11?",
+                  "type":"text",
+                  "answer":"cornelia",
+                  "letters":"Jacceiilnorr" 
+               },
+               {
+                  "x": 1,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/fujimaki.jpg",
+                  "type":"image",
+                  "answer":"fujimaki",
+                  "letters":"ATTafiijkmsu" 
+               },
+               {
+                  "x": 5,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/emilia.jpg",
+                  "type":"image",
+                  "answer":"emilia",
+                  "letters":"QZaaeiilmx" 
+               },
+               {
+                  "x": 1,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"GTO: J'ai de longs cheveux blonds. J'ai un œil bleu et un œil marron. Je suis connu comme le \"tueur de professeur\". Qui suis je?",
+                  "type":"text",
+                  "answer":"urumi",
+                  "letters":"HMPimruuy" 
+               },
+               {
+                  "x": 5,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/leone.jpg",
+                  "type":"image",
+                  "answer":"leone",
+                  "letters":"Heelnnotu" 
+               },
+               {
+                  "x": 9,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Cowboy bebop: Quelle est l'équipe préférée de Miles?",
+                  "type":"text",
+                  "answer":"bluesox",
+                  "letters":"RWabelosuxx" 
+               },
+               {
+                  "x": 7,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/orihime.jpg",
+                  "type":"image",
+                  "answer":"orihime",
+                  "letters":"Kehiijmorsy" 
+               },
+               {
+                  "x": 4,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/vegeta.jpg",
+                  "type":"image",
+                  "answer":"vegeta",
+                  "letters":"JSaeeggntv" 
+               },
+               {
+                  "x": 9,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Tokyo Ghoul: Qui a torturé Kaneki en lui coupant les doigts et en lui demandant de compter de 1000 en diminuant de 7?",
+                  "type":"text",
+                  "answer":"jason",
+                  "letters":"NOSaejnos" 
+               }
+            ]
+         },
+         {
+            "width" : 13,
+            "height" : 14,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/blackstar.jpg",
+                  "type":"image",
+                  "answer":"blackstar",
+                  "letters":"Naabcdfklrstx" 
+               },
+               {
+                  "x": 0,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Queues de fées: Qui est le plus récent des débutants?",
+                  "type":"text",
+                  "answer":"wendy",
+                  "letters":"Jadehlnwy" 
+               },
+               {
+                  "x": 3,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Anime",
+                  "content":"assets/images/content/codegeass.jpg",
+                  "type":"image",
+                  "answer":"codegeass",
+                  "letters":"AJaccdeegooss" 
+               },
+               {
+                  "x": 0,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Steins Gate: Mayuri reste avec Okabe parce qu'elle est son",
+                  "type":"text",
+                  "answer":"otage",
+                  "letters":"EGMYaegot" 
+               },
+               {
+                  "x": 2,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Hunter X Hunter: le groupe de kurapika veut se venger de ....",
+                  "type":"text",
+                  "answer":"fantome",
+                  "letters":"GQRaaefmnto" 
+               },
+               {
+                  "x": 0,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/tatsumi.jpg",
+                  "type":"image",
+                  "answer":"tatsumi",
+                  "letters":"HRafimosttu" 
+               },
+               {
+                  "x": 1,
+                  "y": 7,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/haibara.jpg",
+                  "type":"image",
+                  "answer":"haibara",
+                  "letters":"PUWaaabehir" 
+               },
+               {
+                  "x": 6,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/illumi.jpg",
+                  "type":"image",
+                  "answer":"illumi",
+                  "letters":"iqkliumodlz" 
+               },
+               {
+                  "x": 0,
+                  "y": 11,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Attaque sur Titans: qui est surnommé Potato Girl?",
+                  "type":"text",
+                  "answer":"sasha",
+                  "letters":"Xaahjssvv" 
+               },
+               {
+                  "x": 8,
+                  "y": 5,
+                  "direction":"h", 
+                  "title":"Question",
+                  "content":"Naruto / shippuden: Naruto est un conteneur de la Bête Queue qui a combien de queues?",
+                  "type":"text",
+                  "answer":"neuf",
+                  "letters":"KWefnuux" 
+               }
+            ]
+         },
+         {
+            "width" : 10,
+            "height" : 14,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/gintoki.jpg",
+                  "type":"image",
+                  "answer":"gintoki",
+                  "letters":"JVZgiijknot" 
+               },
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Queues de fées: Quel type de magie utilise Grey Fullbuster?",
+                  "type":"text",
+                  "answer":"glace",
+                  "letters":"GKacegltx" 
+               },
+               {
+                  "x": 2,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Anime",
+                  "content":"Un anime racontant l'histoire d'un adolescent ninja qui cherche la reconnaissance et rêve de devenir le leader de son village.",
+                  "type":"text",
+                  "answer":"naruto",
+                  "letters":"PRadnortuv" 
+               },
+               {
+                  "x": 2,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Steins Gate: Qui est la sixième personne qui est montrée dans l'ouverture?",
+                  "type":"text",
+                  "answer":"okabe",
+                  "letters":"FOUabekor" 
+               },
+               {
+                  "x": 6,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/mine.jpg",
+                  "type":"image",
+                  "answer":"mine",
+                  "letters":"BYdeimny" 
+               },
+               {
+                  "x": 6,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Soul Evans : qui est le premier ami de Crona",
+                  "type":"text",
+                  "answer":"maka",
+                  "letters":"BYaagkmq" 
+               },
+               {
+                  "x": 4,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Attaque sur Titans: Qui est le titan féminin",
+                  "type":"text",
+                  "answer":"annie",
+                  "letters":"Raceginnw" 
+               },
+               {
+                  "x": 1,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/yuri.jpg",
+                  "type":"image",
+                  "answer":"yuri",
+                  "letters":"Fcikqruy" 
+               },
+               {
+                  "x": 1,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Death Note: quel est le nom de famille de Light?",
+                  "type":"text",
+                  "answer":"yagami",
+                  "letters":"KSTaagimvy" 
+               },
+               {
+                  "x": 9,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Yugi-Oh: Quel est le vrai nom de Yami Yugi",
+                  "type":"text",
+                  "answer":"atem",
+                  "letters":"KNaekmtz" 
+               }
+            ]
+         },
+         {
+            "width" : 10,
+            "height" : 12,
+            "questions" : [
+               {
+                  "x": 1,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/patricia.jpg",
+                  "type":"image",
+                  "answer":"patricia",
+                  "letters":"ABaacgiiprtt" 
+               },
+               {
+                  "x": 0,
+                  "y": 8,
+                  "direction":"v",
+                  "title":"Question",
+                  "content":"Boku No Hero: qu'est-ce que c'est que tout ce qu'il a donné à izuku",
+                  "type":"text",
+                  "answer":"oneforall",
+                  "letters":"Sacefkllmnoor" 
+               },
+               {
+                  "x": 0,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/kon.jpg",
+                  "type":"image",
+                  "answer":"kon",
+                  "letters":"KPknopy" 
+               },
+               {
+                  "x": 2,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Tokyo Ghoul: Qui était le partenaire de Kuro Mado?",
+                  "type":"text",
+                  "answer":"amon",
+                  "letters":"CINamnov" 
+               },
+               {
+                  "x": 0,
+                  "y": 4,
+                  "direction":"h", 
+                  "title":"Question",
+                  "content":"Gintama : qui appelle Hijikata -Toshi-",
+                  "type":"text",
+                  "answer":"kondo",
+                  "letters":"BWdhiknoo" 
+               },
+               {
+                  "x": 8,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Code Geass: Dans l'épisode \"The Stolen Mask\", un chat errant a pris le masque de Lelouch et s'enfuit avec. Après que Lelouch ait pris le masque sans que personne ne le sache, Suzaku a décidé de garder le chat. Qu'est-ce que Suzaku a appelé le chat?",
+                  "type":"text",
+                  "answer":"arthur",
+                  "letters":"Yabbhjrrtu" 
+               },
+               {
+                  "x": 6,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/mei.jpg",
+                  "type":"image",
+                  "answer":"mei",
+                  "letters":"KXegimx" 
+               },
+               {
+                  "x": 4,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/ami.jpg",
+                  "type":"image",
+                  "answer":"ami",
+                  "letters":"EWXaimm" 
+               },
+               {
+                  "x": 6,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Cowboy bebop: l'homme dont le style d'arts martiaux Spike a emprunté, prétend que les arts martiaux sont tous d'être comme cet élément naturel.",
+                  "type":"text",
+                  "answer":"eau",
+                  "letters":"Zaaeouz" 
+               }
+            ]
+         },
+         {
+            "width" : 13,
+            "height" : 12,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Steins Gate: Quel nom Okabe donnait a Kurisu?",
+                  "type":"text",
+                  "answer":"christina",
+                  "letters":"BHOTachiinrst" 
+               },
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Boku No Hero: qu'est-ce que Izuku mange pour obtenir AllMight?",
+                  "type":"text",
+                  "answer":"cheveux",
+                  "letters":"AWWbceehuvx" 
+               },
+               {
+                  "x": 0,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Code Geass: Qui se réfère à Lloyd Asplund en tant que \"Earl of Pudding\"?",
+                  "type":"text",
+                  "answer":"rakshata",
+                  "letters":"KWaaagghkrst" 
+               },
+               {
+                  "x": 0,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Cowboy bebop: Comment s'appelait l'ordinateur d'Ed?",
+                  "type":"text",
+                  "answer":"tomato",
+                  "letters":"Qaemoorttt" 
+               },
+               {
+                  "x": 3,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/yamcha.jpg",
+                  "type":"image",
+                  "answer":"yamcha",
+                  "letters":"FTaachmwwy" 
+               },
+               {
+                  "x": 7,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/kasumi.jpg",
+                  "type":"image",
+                  "answer":"kasumi",
+                  "letters":"MUagiklmsu" 
+               },
+               {
+                  "x": 7,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/kisuke.jpg",
+                  "type":"image",
+                  "answer":"kisuke",
+                  "letters":"Zefikksuvz" 
+               },
+               {
+                  "x": 2,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Tokyo Ghoul: l'organisation ciblant les goules est la ..",
+                  "type":"text",
+                  "answer":"gcc",
+                  "letters":"cccggln" 
+               },
+               {
+                  "x": 2,
+                  "y": 10,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Naruto / shippuden: Quel est le nom du serpent le plus fort d'Orochimaru?",
+                  "type":"text",
+                  "answer":"manda",
+                  "letters":"DWaadfimn" 
+               },
+               {
+                  "x": 6,
+                  "y": 7,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/biscuit.jpg",
+                  "type":"image",
+                  "answer":"biscuit",
+                  "letters":"Rbceiinstux" 
+               }
+            ]
+         },
+         {
+            "width" : 15,
+            "height" : 14,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Tokyo Ghoul: qui est le patron d'Anteiku",
+                  "type":"text",
+                  "answer":"yoshimura",
+                  "letters":"ATahimorsuvvy" 
+               },
+               {
+                  "x": 0,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Naruto / shippuden: Qui est le premier Hokage?",
+                  "type":"text",
+                  "answer":"hashirama",
+                  "letters":"BJPaaahhimrst" 
+               },
+               {
+                  "x": 2,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Cowboy bebop: Qui était Julia à l'origine la petite amie de?",
+                  "type":"text",
+                  "answer":"visious",
+                  "letters":"IRRiinossuv" 
+               },
+               {
+                  "x": 4,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Naruto / shippuden: Les examens de Chunin ont commencé en quel mois?",
+                  "type":"text",
+                  "answer":"juillet",
+                  "letters":"SYeijjllptu" 
+               },
+               {
+                  "x": 6,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/yukine.jpg",
+                  "type":"image",
+                  "answer":"yukine",
+                  "letters":"ACegiknuyz" 
+               },
+               {
+                  "x": 8,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/kurapika.jpg",
+                  "type":"image",
+                  "answer":"kurapika",
+                  "letters":"CQSaaikkkpru" 
+               },
+               {
+                  "x": 6,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Naruto / shippuden: Qui dans la septième équipe Kakashi n'enseignait-il pas?",
+                  "type":"text",
+                  "answer":"sai",
+                  "letters":"GWadims" 
+               },
+               {
+                  "x": 8,
+                  "y": 7,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Qui libère Pride de la prison de la terre en dehors de Kanama?",
+                  "type":"text",
+                  "answer":"kimblee",
+                  "letters":"QRbbeegiklm" 
+               },
+               {
+                  "x": 11,
+                  "y": 7,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"One Piece: Luffy parvient à se faufiler dans Impel Down. Au niveau 1, Luffy rencontre un vieil ennemi mais fait équipe avec lui. Qui est cette personne?",
+                  "type":"text",
+                  "answer":"buggy",
+                  "letters":"Obdgggmuy" 
+               },
+               {
+                  "x": 14,
+                  "y": 6,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/jean.jpg",
+                  "type":"image",
+                  "answer":"jean",
+                  "letters":"Oacefgjn" 
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "crosswords": [
+         {
+            "width" : 17,
+            "height" : 15,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Monster : Quel était le nom de l'orphelina?",
+                  "type":"text",
+                  "answer":"kinderheim",
+                  "letters":"BMdeehiijkmnrt" 
+               },
+               {
+                  "x": 5,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Bleach: Dans la première partie de l'anime, de quelle couleur sont les yeux d'Ichimaru Gin?",
+                  "type":"text",
+                  "answer":"rouge",
+                  "letters":"Degortuwz" 
+               },
+               {
+                  "x": 3,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/azusa.jpg",
+                  "type":"image",
+                  "answer":"azusa",
+                  "letters":"Zaaasuvyz" 
+               },
+               {
+                  "x": 2,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/faye.jpg",
+                  "type":"image",
+                  "answer":"faye",
+                  "letters":"DWaefpyy" 
+               },
+               {
+                  "x": 7,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Bleach: Qui tue le troisième Espada?",
+                  "type":"text",
+                  "answer":"aizen",
+                  "letters":"MNVaeinoz" 
+               },
+               {
+                  "x": 6,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Death note: Il est mort pour sauver la vie de Misa",
+                  "type":"text",
+                  "answer":"gelus",
+                  "letters":"Nbbeglstu" 
+               },
+               {
+                  "x": 9,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Boku No Hero: Quel est l'alias du professeur du héros?",
+                  "type":"text",
+                  "answer":"toutvabien",
+                  "letters":"UYabeinorttuuv" 
+               },
+               {
+                  "x": 9,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Black Butler: Quel est le vrai nom de Ciel Phantomhive?",
+                  "type":"text",
+                  "answer":"angelina",
+                  "letters":"Gaaegilnnnnw" 
+               },
+               {
+                  "x": 12,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/neji.jpg",
+                  "type":"image",
+                  "answer":"neji",
+                  "letters":"HPSYeijn" 
+               },
+               {
+                  "x": 9,
+                  "y": 12,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/eto.jpg",
+                  "type":"image",
+                  "answer":"eto",
+                  "letters":"OQXeopt" 
+               }
+            ]
+         },
+         {
+            "width" : 9,
+            "height" : 12,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Fullmetal Alchemist: Quel est le nom de l'Ishbalan qui déteste les alchimistes d'état et les assassine parce qu'il pense que c'est un acte de Dieu?",
+                  "type":"text",
+                  "answer":"cicatrice",
+                  "letters":"GHOacccceiirt" 
+               },
+               {
+                  "x": 3,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Sword Art Online: Yolko, Caynz et Schmitt faisaient tous partie de la guilde nommée golden ____",
+                  "type":"text",
+                  "answer":"apple",
+                  "letters":"BXaelpprw" 
+               },
+               {
+                  "x": 3,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/ponzu.jpg",
+                  "type":"image",
+                  "answer":"ponzu",
+                  "letters":"LUWnoptuz" 
+               },
+               {
+                  "x": 3,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Fullmetal Alchemist: Quel est le nom de famille d'Edward?",
+                  "type":"text",
+                  "answer":"elric",
+                  "letters":"DDVYceilr" 
+               },
+               {
+                  "x": 4,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Code Geass: Britanno honoraire, Suzaku Kururugi est devenu le pilote de quel cadre de chevalier expérimental?",
+                  "type":"text",
+                  "answer":"lancelot",
+                  "letters":"GKTabcellnot" 
+               },
+               {
+                  "x": 0,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/akame.jpg",
+                  "type":"image",
+                  "answer":"akame",
+                  "letters":"HIRaaekmt" 
+               },
+               {
+                  "x": 2,
+                  "y": 7,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/sasha.jpg",
+                  "type":"image",
+                  "answer":"sasha",
+                  "letters":"Eaaehkoss" 
+               },
+               {
+                  "x": 4,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/lloyd.jpg",
+                  "type":"image",
+                  "answer":"lloyd",
+                  "letters":"Oadllotyy" 
+               },
+               {
+                  "x": 6,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Boku No Hero: Qui est le personnage muet?",
+                  "type":"text",
+                  "answer":"koji",
+                  "letters":"CQXeijko" 
+               }
+            ]
+         },
+         {
+            "width" : 11,
+            "height" : 15,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/charizard.jpg",
+                  "type":"image",
+                  "answer":"charizard",
+                  "letters":"Iaacdhhinrrwz" 
+               },
+               {
+                  "x": 1,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/hohenheim.jpg",
+                  "type":"image",
+                  "answer":"hohenheim",
+                  "letters":"LLVeehhhilmno" 
+               },
+               {
+                  "x": 0,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/mello.jpg",
+                  "type":"image",
+                  "answer":"mello",
+                  "letters":"EEFekllmo" 
+               },
+               {
+                  "x": 6,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/anna.jpg",
+                  "type":"image",
+                  "answer":"anna",
+                  "letters":"IMaaennq" 
+               },
+               {
+                  "x": 1,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Queues de fées: Qui est le maître de «Fairy Tail»?",
+                  "type":"text",
+                  "answer":"makarov",
+                  "letters":"Qaaefkmoruv" 
+               },
+               {
+                  "x": 5,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Cowboy bebop: La couleur du cheval d'andy",
+                  "type":"text",
+                  "answer":"marron",
+                  "letters":"PSYahmnorr" 
+               },
+               {
+                  "x": 4,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/mayuri.jpg",
+                  "type":"image",
+                  "answer":"mayuri",
+                  "letters":"ahimrstuwy" 
+               },
+               {
+                  "x": 8,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"One Piece: Parmi les neuf membres de Straw-hat, combien ont des pouvoirs Fruit du diable?",
+                  "type":"text",
+                  "answer":"quatre",
+                  "letters":"Laeijoqrtu" 
+               },
+               {
+                  "x": 3,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/kiyoshi.jpg",
+                  "type":"image",
+                  "answer":"kiyoshi",
+                  "letters":"OOZdhiikosy" 
+               },
+               {
+                  "x": 7,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/mako.jpg",
+                  "type":"image",
+                  "answer":"mako",
+                  "letters":"DWakmoou" 
+               }
+            ]
+         },
+         {
+            "width" : 12,
+            "height" : 12,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/ashitaka.jpg",
+                  "type":"image",
+                  "answer":"ashitaka",
+                  "letters":"Xaaahikprstt" 
+               },
+               {
+                  "x": 0,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Sword Art Online: Dans l'Arbre du Monde, Asuna était la Reine des Fées. Quel était son nom?",
+                  "type":"text",
+                  "answer":"titania",
+                  "letters":"BBHaaiinttu" 
+               },
+               {
+                  "x": 3,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"One Piece: Quel fruit du diable Luffy a-t-il mangé?",
+                  "type":"text",
+                  "answer":"gumgum",
+                  "letters":"IXggmmnuux" 
+               },
+               {
+                  "x": 6,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/kallen.jpg",
+                  "type":"image",
+                  "answer":"kallen",
+                  "letters":"GSaejkllns" 
+               },
+               {
+                  "x": 6,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/kirito.jpg",
+                  "type":"image",
+                  "answer":"kirito",
+                  "letters":"CMgiiknort" 
+               },
+               {
+                  "x": 8,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Attaque sur Titans: Que rêve Armin de voir?",
+                  "type":"text",
+                  "answer":"mer",
+                  "letters":"IPeflmr" 
+               },
+               {
+                  "x": 6,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/lucy.jpg",
+                  "type":"image",
+                  "answer":"lucy",
+                  "letters":"acdilquy" 
+               },
+               {
+                  "x": 11,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/ryou.jpg",
+                  "type":"image",
+                  "answer":"ryou",
+                  "letters":"Forttuuy" 
+               },
+               {
+                  "x": 8,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/chihiro.jpg",
+                  "type":"image",
+                  "answer":"chihiro",
+                  "letters":"NPVchhiinor" 
+               },
+               {
+                  "x": 5,
+                  "y": 11,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Dragonball Z: Qui est le gardien aux manières douces que Goku rencontre et se bat au-dessus de la Tour de Korin?",
+                  "type":"text",
+                  "answer":"popo",
+                  "letters":"LPTooppp" 
+               }
+            ]
+         },
+         {
+            "width" : 16,
+            "height" : 14,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Kuroko No Basketball : Quel est Hyuga Junpei à Seirin",
+                  "type":"text",
+                  "answer":"capitaine",
+                  "letters":"MWYaaceiinpst" 
+               },
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/chopper.jpg",
+                  "type":"image",
+                  "answer":"chopper",
+                  "letters":"CQRcehoppqr" 
+               },
+               {
+                  "x": 4,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Hunter X Hunter: qui est le survivant du clan Kurta ",
+                  "type":"text",
+                  "answer":"kurapika",
+                  "letters":"AEXaacikkpru" 
+               },
+               {
+                  "x": 7,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Death Note: qui a réussi à arrêter Light?",
+                  "type":"text",
+                  "answer":"near",
+                  "letters":"EQaeknrs" 
+               },
+               {
+                  "x": 11,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Javel: J'utilise une grande lame en forme de scie segmentée avec chaque segment relié par des bandes extensibles. Il a la capacité d'être manié comme un fouet bien qu'il ne puisse être balancé que trois fois de suite",
+                  "type":"text",
+                  "answer":"zabimaru",
+                  "letters":"aabfiimrtuwz" 
+               },
+               {
+                  "x": 7,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/jellal.jpg",
+                  "type":"image",
+                  "answer":"jellal",
+                  "letters":"QUUVaejlll" 
+               },
+               {
+                  "x": 9,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/kousei.jpg",
+                  "type":"image",
+                  "answer":"kousei",
+                  "letters":"ABUeikosuy" 
+               },
+               {
+                  "x": 14,
+                  "y": 6,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/krista.jpg",
+                  "type":"image",
+                  "answer":"krista",
+                  "letters":"Raaikrstyz" 
+               },
+               {
+                  "x": 11,
+                  "y": 11,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/gohan.jpg",
+                  "type":"image",
+                  "answer":"gohan",
+                  "letters":"DTaghmnos" 
+               },
+               {
+                  "x": 12,
+                  "y": 10,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/dola.jpg",
+                  "type":"image",
+                  "answer":"dola",
+                  "letters":"GHUadloz" 
+               }
+            ]
+         },
+         {
+            "width" : 12,
+            "height" : 12,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Tokyo Ghoul: Quel est le nom complet du personnage principal?",
+                  "type":"text",
+                  "answer":"kanekiken",
+                  "letters":"Laeeikkkmnnnn" 
+               },
+               {
+                  "x": 2,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Dragonball Z: Quel est le nom Saiyan de Goku?",
+                  "type":"text",
+                  "answer":"kakarot",
+                  "letters":"MTaakkortuv" 
+               },
+               {
+                  "x": 0,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/kiritsugu.jpg",
+                  "type":"image",
+                  "answer":"kiritsugu",
+                  "letters":"ghiijkmorstuu" 
+               },
+               {
+                  "x": 4,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/yato.jpg",
+                  "type":"image",
+                  "answer":"yato",
+                  "letters":"Iaooppty" 
+               },
+               {
+                  "x": 6,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Hunter X Hunter: la capacité du nen de killua",
+                  "type":"text",
+                  "answer":"foudre",
+                  "letters":"IUdefiorux" 
+               },
+               {
+                  "x": 8,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/kuroko.jpg",
+                  "type":"image",
+                  "answer":"kuroko",
+                  "letters":"Okkllooruw" 
+               },
+               {
+                  "x": 3,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/gaara.jpg",
+                  "type":"image",
+                  "answer":"gaara",
+                  "letters":"Haaagglnr" 
+               },
+               {
+                  "x": 8,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/rei.jpg",
+                  "type":"image",
+                  "answer":"rei",
+                  "letters":"ATegimr" 
+               },
+               {
+                  "x": 7,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/sonic.jpg",
+                  "type":"image",
+                  "answer":"sonic",
+                  "letters":"LMcinopsw" 
+               },
+               {
+                  "x": 7,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/sabo.jpg",
+                  "type":"image",
+                  "answer":"sabo",
+                  "letters":"Oabglmos" 
+               }
+            ]
+         },
+         {
+            "width" : 13,
+            "height" : 11,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/charles.jpg",
+                  "type":"image",
+                  "answer":"charles",
+                  "letters":"FTUacehhlrs" 
+               },
+               {
+                  "x": 0,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"J'aime secrètement Naruto. Qui suis je?",
+                  "type":"text",
+                  "answer":"hinata",
+                  "letters":"Xaahinttuw" 
+               },
+               {
+                  "x": 0,
+                  "y": 7,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Fairy Tails: Lucy prend quelle place dans le concours de queue de fées",
+                  "type":"text",
+                  "answer":"seconde",
+                  "letters":"EVcdeenosxz" 
+               },
+               {
+                  "x": 3,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/rolo.jpg",
+                  "type":"image",
+                  "answer":"rolo",
+                  "letters":"LWbloorz" 
+               },
+               {
+                  "x": 7,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/natsu.jpg",
+                  "type":"image",
+                  "answer":"natsu",
+                  "letters":"HRaiknstu" 
+               },
+               {
+                  "x": 5,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Steins Gate: Quel était le nom du moteur de recherche qu'ils utilisent à la place de google?",
+                  "type":"text",
+                  "answer":"goodle",
+                  "letters":"SWcdegloov" 
+               },
+               {
+                  "x": 5,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/ochako.jpg",
+                  "type":"image",
+                  "answer":"ochako",
+                  "letters":"Pacghkkkoo" 
+               },
+               {
+                  "x": 9,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/trunks.jpg",
+                  "type":"image",
+                  "answer":"trunks",
+                  "letters":"CFfkknrstu" 
+               },
+               {
+                  "x": 8,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/yuuki.jpg",
+                  "type":"image",
+                  "answer":"yuuki",
+                  "letters":"ANiksuuyz" 
+               },
+               {
+                  "x": 4,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/teru.jpg",
+                  "type":"image",
+                  "answer":"teru",
+                  "letters":"Lefprtuy" 
+               }
+            ]
+         },
+         {
+            "width" : 12,
+            "height" : 14,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Boku No Hero: Qu'est-ce que l'alter de katsuki?",
+                  "type":"text",
+                  "answer":"explosion",
+                  "letters":"FQeilnooppstx" 
+               },
+               {
+                  "x": 0,
+                  "y": 13,
+                  "direction":"v",
+                  "title":"Personnage",
+                  "content":"assets/images/content/hideyoshi.jpg",
+                  "type":"image",
+                  "answer":"hideyoshi",
+                  "letters":"adefhhiiopsvy" 
+               },
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/eugeo.jpg",
+                  "type":"image",
+                  "answer":"eugeo",
+                  "letters":"CDeeghouz" 
+               },
+               {
+                  "x": 0,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/nana.jpg",
+                  "type":"image",
+                  "answer":"nana",
+                  "letters":"DHVaaknn" 
+               },
+               {
+                  "x": 3,
+                  "y": 7,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/kayo.jpg",
+                  "type":"image",
+                  "answer":"kayo",
+                  "letters":"GNOaekoy" 
+               },
+               {
+                  "x": 2,
+                  "y": 10,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Death Note: quel est le travail principal de Misa?",
+                  "type":"text",
+                  "answer":"modele",
+                  "letters":"JRZdeelmot" 
+               },
+               {
+                  "x": 8,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Code Geass: Quand Lelouch a formé un groupe de rébellion avec les terroristes à Shinjuku, il s'est donné un nom de code que les Britanniens et les Japonais lui ont reconnu. Quel était ce nom de code?",
+                  "type":"text",
+                  "answer":"zero",
+                  "letters":"GIMeortz" 
+               },
+               {
+                  "x": 7,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Anime",
+                  "content":"assets/images/content/bleach.jpg",
+                  "type":"image",
+                  "answer":"bleach",
+                  "letters":"Uabcceehls" 
+               },
+               {
+                  "x": 7,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/boros.jpg",
+                  "type":"image",
+                  "answer":"boros",
+                  "letters":"HWbfooprs" 
+               },
+               {
+                  "x": 10,
+                  "y": 7,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Hunter X Hunter: 3e garde royale née",
+                  "type":"text",
+                  "answer":"youpi",
+                  "letters":"NUcdiopuy" 
+               }
+            ]
+         },
+         {
+            "width" : 12,
+            "height" : 12,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Sword Art Online: Qui était responsable de la mort de Griselda?",
+                  "type":"text",
+                  "answer":"grimlock",
+                  "letters":"RWcgiklmorrx" 
+               },
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/gon.jpg",
+                  "type":"image",
+                  "answer":"gon",
+                  "letters":"BTfgkno" 
+               },
+               {
+                  "x": 3,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Bleach: Qui dont la commande de libération est \"Pray\"?",
+                  "type":"text",
+                  "answer":"jiruga",
+                  "letters":"Tacgiijrux" 
+               },
+               {
+                  "x": 3,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Naruto / shippuden: Après Ebisu a été assommé, qui est devenu le nouveau professeur de Naruto?",
+                  "type":"text",
+                  "answer":"jiraiya",
+                  "letters":"VWaaiijprry" 
+               },
+               {
+                  "x": 7,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/kagami.jpg",
+                  "type":"image",
+                  "answer":"kagami",
+                  "letters":"FLaabgikmy" 
+               },
+               {
+                  "x": 6,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Cowboy bebop: Qu'est-ce que le virus dans la fiole transforme les gens en?",
+                  "type":"text",
+                  "answer":"singes",
+                  "letters":"MXZaeginss" 
+               },
+               {
+                  "x": 6,
+                  "y": 6,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Death note: Combien de cahier de la mort sont autorisées à être dans le monde humain à la fois?",
+                  "type":"text",
+                  "answer":"six",
+                  "letters":"BRhisxx" 
+               },
+               {
+                  "x": 8,
+                  "y": 6,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/nappa.jpg",
+                  "type":"image",
+                  "answer":"nappa",
+                  "letters":"Faacdknpp" 
+               },
+               {
+                  "x": 5,
+                  "y": 10,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/johan.jpg",
+                  "type":"image",
+                  "answer":"johan",
+                  "letters":"aghijlnos" 
+               },
+               {
+                  "x": 10,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Fairy Tails: Quel type de tueur de dragon est le personnage de Natsu Dragneel?",
+                  "type":"text",
+                  "answer":"feu",
+                  "letters":"AMefhiu" 
+               }
+            ]
+         },
+         {
+            "width" : 13,
+            "height" : 15,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/tokuchi.jpg",
+                  "type":"image",
+                  "answer":"tokuchi",
+                  "letters":"Dcdhiklotuy" 
+               },
+               {
+                  "x": 0,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Attaque sur Titans: Qui a sauvé Mikasa et Eren dans la première attaque de titans",
+                  "type":"text",
+                  "answer":"hannes",
+                  "letters":"FJPaehnnsx" 
+               },
+               {
+                  "x": 4,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/hange.jpg",
+                  "type":"image",
+                  "answer":"hange",
+                  "letters":"HXYaegghn" 
+               },
+               {
+                  "x": 5,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Akama Ga Kill: Qui de la Night Raid meurt en premier?",
+                  "type":"text",
+                  "answer":"shelee",
+                  "letters":"Veeehlmosv" 
+               },
+               {
+                  "x": 2,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/usopp.jpg",
+                  "type":"image",
+                  "answer":"usopp",
+                  "letters":"JRfopprsu" 
+               },
+               {
+                  "x": 1,
+                  "y": 10,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Death Note Quel est le fruit préféré de Shinigami de Light, Ryuk?",
+                  "type":"text",
+                  "answer":"pomme",
+                  "letters":"FIMVemmop" 
+               },
+               {
+                  "x": 4,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Hunter X Hunter: comment s'appelle la petite soeur de Killua?",
+                  "type":"text",
+                  "answer":"alluka",
+                  "letters":"VXaakllruz" 
+               },
+               {
+                  "x": 9,
+                  "y": 7,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/masami.jpg",
+                  "type":"image",
+                  "answer":"masami",
+                  "letters":"Paaimmstwz" 
+               },
+               {
+                  "x": 8,
+                  "y": 12,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Attaque sur Titans: Eren peut se transormer en  ..",
+                  "type":"text",
+                  "answer":"titan",
+                  "letters":"IUagiintt" 
+               },
+               {
+                  "x": 12,
+                  "y": 10,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/ginyu.jpg",
+                  "type":"image",
+                  "answer":"ginyu",
+                  "letters":"Pdginssuy" 
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "crosswords": [
+         {
+            "width" : 14,
+            "height" : 12,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/shinpachi.jpg",
+                  "type":"image",
+                  "answer":"shinpachi",
+                  "letters":"Uaabchhiinpsu" 
+               },
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Quel est le nom du fils adoptif de Fuhrer King Bradley?",
+                  "type":"text",
+                  "answer":"selim",
+                  "letters":"Oefilmnrs" 
+               },
+               {
+                  "x": 0,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Fullmetal Alchemist: En quelle saison est l'éclipse solaire et le jour promis?",
+                  "type":"text",
+                  "answer":"printemps",
+                  "letters":"JKQeimnpprrst" 
+               },
+               {
+                  "x": 2,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/kishou.jpg",
+                  "type":"image",
+                  "answer":"kishou",
+                  "letters":"JJhikkosuu" 
+               },
+               {
+                  "x": 3,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Steins Gate: steins gate est un travail de collaboration entre 5pb. Et qui?",
+                  "type":"text",
+                  "answer":"nitro",
+                  "letters":"JYinnnort" 
+               },
+               {
+                  "x": 6,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Monster : Qui est le magnifique Steiner",
+                  "type":"text",
+                  "answer":"grimper",
+                  "letters":"CPYegimprrx" 
+               },
+               {
+                  "x": 4,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/tatsuki.jpg",
+                  "type":"image",
+                  "answer":"tatsuki",
+                  "letters":"GJagikrsttu" 
+               },
+               {
+                  "x": 8,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Death note: Quel était le nom de l'organisation aux états-Unis qui enquêtait sur Kira?",
+                  "type":"text",
+                  "answer":"spk",
+                  "letters":"HIMTkps" 
+               },
+               {
+                  "x": 4,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Code Geass: Quel membre du conseil étudiant d'Ashford Academy était l'un des terroristes aidés par Lelouch à Shinjuku?",
+                  "type":"text",
+                  "answer":"kallen",
+                  "letters":"Taaekllntv" 
+               },
+               {
+                  "x": 8,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/pokkle.jpg",
+                  "type":"image",
+                  "answer":"pokkle",
+                  "letters":"ILbeikklop" 
+               }
+            ]
+         },
+         {
+            "width" : 9,
+            "height" : 17,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Boku No Hero: Quel est le vrai nom de Allmight?",
+                  "type":"text",
+                  "answer":"toshinori",
+                  "letters":"CGNThiinoorst" 
+               },
+               {
+                  "x": 2,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Cowboy bebop: Faye vivait ici avant d'être cryogénisée.",
+                  "type":"text",
+                  "answer":"singapour",
+                  "letters":"JQadginopqrsu" 
+               },
+               {
+                  "x": 1,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/kamina.jpg",
+                  "type":"image",
+                  "answer":"kamina",
+                  "letters":"Naaikmnosw" 
+               },
+               {
+                  "x": 1,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/moeka.jpg",
+                  "type":"image",
+                  "answer":"moeka",
+                  "letters":"MWYZaekmo" 
+               },
+               {
+                  "x": 0,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/zeref.jpg",
+                  "type":"image",
+                  "answer":"zeref",
+                  "letters":"Fceefnrxz" 
+               },
+               {
+                  "x": 1,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Fairy Tails: Qui est le personnage qui parle de la virilité tout le temps?",
+                  "type":"text",
+                  "answer":"elfman",
+                  "letters":"BQaefilmnx" 
+               },
+               {
+                  "x": 4,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Bleach: Ce creux a d'abord été rencontré dans l'épisode 1 et n'est plus apparu depuis. Quel était ce nom de creux?",
+                  "type":"text",
+                  "answer":"fishboned",
+                  "letters":"BHbdefhiinosx" 
+               },
+               {
+                  "x": 4,
+                  "y": 10,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/shu.jpg",
+                  "type":"image",
+                  "answer":"shu",
+                  "letters":"GGPVhsu" 
+               },
+               {
+                  "x": 4,
+                  "y": 12,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/brock.jpg",
+                  "type":"image",
+                  "answer":"brock",
+                  "letters":"Fbcdgkors" 
+               },
+               {
+                  "x": 3,
+                  "y": 15,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Bleach: comment l'ichigo était-il lié au premier shinigami qu'il a rencontré?",
+                  "type":"text",
+                  "answer":"pere",
+                  "letters":"GZdeeprw" 
+               }
+            ]
+         },
+         {
+            "width" : 7,
+            "height" : 15,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/kaonashi.jpg",
+                  "type":"image",
+                  "answer":"kaonashi",
+                  "letters":"Yaadhiknorsw" 
+               },
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/aomine.jpg",
+                  "type":"image",
+                  "answer":"aomine",
+                  "letters":"HLNUaeimno" 
+               },
+               {
+                  "x": 3,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/kida.jpg",
+                  "type":"image",
+                  "answer":"kida",
+                  "letters":"FORWadik" 
+               },
+               {
+                  "x": 0,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/sasori.jpg",
+                  "type":"image",
+                  "answer":"sasori",
+                  "letters":"GXadgiorss" 
+               },
+               {
+                  "x": 2,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/shinya.jpg",
+                  "type":"image",
+                  "answer":"shinya",
+                  "letters":"AHVaghinsy" 
+               },
+               {
+                  "x": 5,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Tokyo Ghoul: Après la mort de Kureo Mado, l'un des membres de sa famille a rejoint la GCC, c'était son/sa ...",
+                  "type":"text",
+                  "answer":"fille",
+                  "letters":"Befijlltz" 
+               },
+               {
+                  "x": 2,
+                  "y": 10,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/asuna.jpg",
+                  "type":"image",
+                  "answer":"asuna",
+                  "letters":"BGOaacnsu" 
+               },
+               {
+                  "x": 4,
+                  "y": 9,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/rukia.jpg",
+                  "type":"image",
+                  "answer":"rukia",
+                  "letters":"STYaikoru" 
+               },
+               {
+                  "x": 3,
+                  "y": 12,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Tokyo Ghoul: Qui vient à l'esprit du personnage principal?",
+                  "type":"text",
+                  "answer":"rize",
+                  "letters":"CPWeimrz" 
+               },
+               {
+                  "x": 6,
+                  "y": 12,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Cowboy bebop: 16 Qui rejoint l'équipage du Bebop en premier?",
+                  "type":"text",
+                  "answer":"ein",
+                  "letters":"Jefijnv" 
+               }
+            ]
+         },
+         {
+            "width" : 10,
+            "height" : 10,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"One Piece: Luffy et Buggy tombent au niveau 2 et, pendant ce temps, le directeur d'Impel Down est vu pour la première fois. Qui est le directeur d'Impel Down?",
+                  "type":"text",
+                  "answer":"magellan",
+                  "letters":"Eaaeeegllmnq" 
+               },
+               {
+                  "x": 1,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Tokyo Ghoul: Comment s'appelle l'organisation terroriste?",
+                  "type":"text",
+                  "answer":"aogiri",
+                  "letters":"GZagiimorr" 
+               },
+               {
+                  "x": 0,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/kirara.jpg",
+                  "type":"image",
+                  "answer":"kirara",
+                  "letters":"WYaafikprr" 
+               },
+               {
+                  "x": 4,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/spirit.jpg",
+                  "type":"image",
+                  "answer":"spirit",
+                  "letters":"Qaiikprstu" 
+               },
+               {
+                  "x": 4,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/subaru.jpg",
+                  "type":"image",
+                  "answer":"subaru",
+                  "letters":"LZabgkrsuu" 
+               },
+               {
+                  "x": 2,
+                  "y": 7,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/satoru.jpg",
+                  "type":"image",
+                  "answer":"satoru",
+                  "letters":"PRVaborstu" 
+               },
+               {
+                  "x": 2,
+                  "y": 7,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/san.jpg",
+                  "type":"image",
+                  "answer":"san",
+                  "letters":"CJKXans" 
+               },
+               {
+                  "x": 0,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Sword Art Online: Combien de filles Kirito a-t-elle aidées?",
+                  "type":"text",
+                  "answer":"cinq",
+                  "letters":"GQSYcinq" 
+               },
+               {
+                  "x": 7,
+                  "y": 6,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Steins Gate: Quel est le nom du propriétaire de Rintaro?",
+                  "type":"text",
+                  "answer":"yugo",
+                  "letters":"MPgkkouy" 
+               },
+               {
+                  "x": 5,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Code Geass: 19 Dans la première saison, \"Lelouch de la Rébellion\", à qui Milly Ashford est-elle fiancée?",
+                  "type":"text",
+                  "answer":"lloyd",
+                  "letters":"LYdllopqy" 
+               }
+            ]
+         },
+         {
+            "width" : 14,
+            "height" : 13,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Kuroko No Basketball : Midorima Shintaro croient complètement en",
+                  "type":"text",
+                  "answer":"horoscopes",
+                  "letters":"HMTcehoooprsss" 
+               },
+               {
+                  "x": 4,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Gintama : Gintoki en a trop dans le sang",
+                  "type":"text",
+                  "answer":"sucre",
+                  "letters":"Sacegrsuy" 
+               },
+               {
+                  "x": 1,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Fullmetal Alchemist: Scar a commencé à dessiner un grand cercle de transmutation à travers une ville entière; c'était un tableau qui ferait la pierre philosophale. Dans quelle ville Scar at-il fabriqué ce tableau?",
+                  "type":"text",
+                  "answer":"lior",
+                  "letters":"GQeillor" 
+               },
+               {
+                  "x": 2,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/ippo.jpg",
+                  "type":"image",
+                  "answer":"ippo",
+                  "letters":"KMSioppw" 
+               },
+               {
+                  "x": 1,
+                  "y": 7,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Dragonball Z: De quoi rêve Goku quand il tombe aux enfers?",
+                  "type":"text",
+                  "answer":"donuts",
+                  "letters":"dfglnostuw" 
+               },
+               {
+                  "x": 9,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/suzaku.jpg",
+                  "type":"image",
+                  "answer":"suzaku",
+                  "letters":"KYaknsuuzz" 
+               },
+               {
+                  "x": 9,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"One Piece: Quel personnage 'One Piece' utilise une fronde et a un très long nez?",
+                  "type":"text",
+                  "answer":"usopp",
+                  "letters":"cklooppsu" 
+               },
+               {
+                  "x": 9,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/annie.jpg",
+                  "type":"image",
+                  "answer":"annie",
+                  "letters":"Haegijlnn" 
+               },
+                {
+                  "x": 6,
+                  "y": 7,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/shuu.jpg",
+                  "type":"image",
+                  "answer":"shuu",
+                  "letters":"hjqqsuuw" 
+               },
+               {
+                  "x": 5,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Fullmetal Alchemist: Edward Elric est quel alchimiste?",
+                  "type":"text",
+                  "answer":"fullmetal",
+                  "letters":"IXaeflllmtuzz" 
+               }
+            ]
+         },
+         {
+            "width" : 11,
+            "height" : 14,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Steins Gate: Quelle est la boisson préférée des okabes?",
+                  "type":"text",
+                  "answer":"dkpepper",
+                  "letters":"FWcdeefkpppr" 
+               },
+               {
+                  "x": 6,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/evans.jpg",
+                  "type":"image",
+                  "answer":"evans",
+                  "letters":"HYaennsvz" 
+               },
+               {
+                  "x": 2,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Hunter X Hunter: qui est le président nouvellement élu",
+                  "type":"text",
+                  "answer":"cheadle",
+                  "letters":"Pacddeehjlu" 
+               },
+               {
+                  "x": 4,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/mewtwo.jpg",
+                  "type":"image",
+                  "answer":"mewtwo",
+                  "letters":"VWaemnotww" 
+               },
+               {
+                  "x": 6,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/saber.jpg",
+                  "type":"image",
+                  "answer":"saber",
+                  "letters":"JTaberssu" 
+               },
+               {
+                  "x": 8,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/ran.jpg",
+                  "type":"image",
+                  "answer":"ran",
+                  "letters":"RYabnrt" 
+               },
+               {
+                  "x": 2,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"assets/images/content/shinji.jpg",
+                  "type":"image",
+                  "answer":"shinji",
+                  "letters":"EVhiijnsvw" 
+               },
+               {
+                  "x": 1,
+                  "y": 10,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Boku No Hero: A l'attaque de SCA, Izuku était avec Tsuyu et ...",
+                  "type":"text",
+                  "answer":"minoru",
+                  "letters":"AHJVimnoru" 
+               },
+               {
+                  "x": 10,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"One Piece: Qui a été la première personne du CP9 à être vaincu?",
+                  "type":"text",
+                  "answer":"nero",
+                  "letters":"ehnnorst" 
+               },
+               {
+                  "x": 8,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Dragonball Z: De quelle couleur est le scouter de Nappa?",
+                  "type":"text",
+                  "answer":"bleu",
+                  "letters":"beegjlru" 
+               }
+            ]
+         },
+         {
+            "width" : 8,
+            "height" : 13,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Bleach: Qui détient le Zanpakuto nommé Hisagomaru?",
+                  "type":"text",
+                  "answer":"hanataro",
+                  "letters":"DLaaaghnorst" 
+               },
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/hideki.jpg",
+                  "type":"image",
+                  "answer":"hideki",
+                  "letters":"AJdehiiikx" 
+               },
+               {
+                  "x": 5,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"One Piece: Qui est le premier adversaire principal de Luffy?",
+                  "type":"text",
+                  "answer":"alvida",
+                  "letters":"DFNYaadilv" 
+               },
+               {
+                  "x": 2,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Steins Gate: Pour qui travaille Mayuri?",
+                  "type":"text",
+                  "answer":"faris",
+                  "letters":"afhhijprs" 
+               },
+               {
+                  "x": 2,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/yamato.jpg",
+                  "type":"image",
+                  "answer":"yamato",
+                  "letters":"Faamosstyy" 
+               },
+               {
+                  "x": 3,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/asuma.jpg",
+                  "type":"image",
+                  "answer":"asuma",
+                  "letters":"Taamprssu" 
+               },
+               {
+                  "x": 2,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/hana.jpg",
+                  "type":"image",
+                  "answer":"hana",
+                  "letters":"ILaahjnx" 
+               },
+               {
+                  "x": 7,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/popo.jpg",
+                  "type":"image",
+                  "answer":"popo",
+                  "letters":"beffoopp" 
+               },
+               {
+                  "x": 2,
+                  "y": 9,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Steins Gate: Qui est le concepteur de personnages pour Steins Gate?",
+                  "type":"text",
+                  "answer":"huke",
+                  "letters":"XYbehjku" 
+               },
+               {
+                  "x": 5,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Death note: Qui a été la première personne à découvrir que Light était Kira?",
+                  "type":"text",
+                  "answer":"raye",
+                  "letters":"Taelnory" 
+               }
+            ]
+         },
+         {
+            "width" : 11,
+            "height" : 14,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/midorima.jpg",
+                  "type":"image",
+                  "answer":"midorima",
+                  "letters":"HHUadiimmorx" 
+               },
+               {
+                  "x": 0,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Attack On Titans: le mur le plus intérieur est",
+                  "type":"text",
+                  "answer":"sheena",
+                  "letters":"DIXaeehnsu" 
+               },
+               {
+                  "x": 0,
+                  "y": 2,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Death Note: Qui a dit à Mello que l'une des règles de la note de décès qu'il avait obtenue était fausse?",
+                  "type":"text",
+                  "answer":"sidoh",
+                  "letters":"MTZdhioos" 
+               },
+               {
+                  "x": 5,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Attaque sur Titans: Qui est l'auteur de shingeki no kyojin",
+                  "type":"text",
+                  "answer":"isayama",
+                  "letters":"Eaaahilmosy" 
+               },
+               {
+                  "x": 2,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/miyata.jpg",
+                  "type":"image",
+                  "answer":"miyata",
+                  "letters":"BSaaimtvwy" 
+               },
+               {
+                  "x": 5,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/yubaba.jpg",
+                  "type":"image",
+                  "answer":"yubaba",
+                  "letters":"GKNaabbbuy" 
+               },
+               {
+                  "x": 3,
+                  "y": 6,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/izuku.jpg",
+                  "type":"image",
+                  "answer":"izuku",
+                  "letters":"DEVZikuuz" 
+               },
+               {
+                  "x": 10,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/erza.jpg",
+                  "type":"image",
+                  "answer":"erza",
+                  "letters":"Eaenprtz" 
+               },
+               {
+                  "x": 3,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/koutarou.jpg",
+                  "type":"image",
+                  "answer":"koutarou",
+                  "letters":"FNRakoortuuy" 
+               },
+               {
+                  "x": 10,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/juuzou.jpg",
+                  "type":"image",
+                  "answer":"juuzou",
+                  "letters":"FNQfjouuuz" 
+               }
+            ]
+         },
+         {
+            "width" : 15,
+            "height" : 13,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Pokémon: Quel a été le premier Pokémon qu'Ash s'est attrapé?",
+                  "type":"text",
+                  "answer":"caterpie",
+                  "letters":"FKWXaceeiprt" 
+               },
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Dragonball Z: Goku est un combattant puissant. Il y a seulement une personne que Goku craint. Qu'est-ce?",
+                  "type":"text",
+                  "answer":"chichi",
+                  "letters":"KKbccfhhii" 
+               },
+               {
+                  "x": 5,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/inori.jpg",
+                  "type":"image",
+                  "answer":"inori",
+                  "letters":"CTZgiinor" 
+               },
+               {
+                  "x": 5,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/ryuko.jpg",
+                  "type":"image",
+                  "answer":"ryuko",
+                  "letters":"KPekloruy" 
+               },
+               {
+                  "x": 8,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Hunter X Hunter: L'adversaire du roi Gungi",
+                  "type":"text",
+                  "answer":"komugi",
+                  "letters":"VWgikmmouw" 
+               },
+               {
+                  "x": 5,
+                  "y": 7,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Qui est la première personne sur laquel Naruto utilise avec succès Rasengan?",
+                  "type":"text",
+                  "answer":"kabuto",
+                  "letters":"HJabklortu" 
+               },
+               {
+                  "x": 6,
+                  "y": 6,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Quel est le nom du Jounin qui attaque Naruto et le groupe? (première saison)",
+                  "type":"text",
+                  "answer":"zabuza",
+                  "letters":"Waabduyzzz" 
+               },
+               {
+                  "x": 1,
+                  "y": 11,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/suzuha.jpg",
+                  "type":"image",
+                  "answer":"suzuha",
+                  "letters":"QRZahjsuuz" 
+               },
+               {
+                  "x": 10,
+                  "y": 6,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Sword Art Online: où kirito et asuna trouvent-ils Yui?",
+                  "type":"text",
+                  "answer":"foret",
+                  "letters":"CYbdefort" 
+               },
+               {
+                  "x": 10,
+                  "y": 10,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Boku No Hero: Qui a tué Ingenium?",
+                  "type":"text",
+                  "answer":"tache",
+                  "letters":"Cacehlqtw" 
+               }
+            ]
+         },
+         {
+            "width" : 11,
+            "height" : 14,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Cowboy bebop: Quel était le cadeau de départ d'Ed à Spike?",
+                  "type":"text",
+                  "answer":"moulinette",
+                  "letters":"Qdeeegilmnottu" 
+               },
+               {
+                  "x": 0,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Boku No Hero: l'alter d'Ochako lui permet d'obtenir _____ à zéro",
+                  "type":"text",
+                  "answer":"lagravite",
+                  "letters":"RYZaagilprtve" 
+               },
+               {
+                  "x": 3,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Code Geass: qui a tué shirley",
+                  "type":"text",
+                  "answer":"rolo",
+                  "letters":"fjlmoopr" 
+               },
+               {
+                  "x": 8,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Tokyo Ghoul: quelle est le seul boisson qui a le même goût pour les goules et les humains",
+                  "type":"text",
+                  "answer":"cafe",
+                  "letters":"IYacfuze" 
+               },
+               {
+                  "x": 2,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Hunter X Hunter: qui a tué Pitou?",
+                  "type":"text",
+                  "answer":"gon",
+                  "letters":"BOPghno" 
+               },
+               {
+                  "x": 6,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Fullmetal Alchemist: Quel est le nom du dieu qui est adoré par le peuple Ishbalen?",
+                  "type":"text",
+                  "answer":"ishbala",
+                  "letters":"Aaabhhillsz" 
+               },
+               {
+                  "x": 1,
+                  "y": 11,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/simon.jpg",
+                  "type":"image",
+                  "answer":"simon",
+                  "letters":"CDOVimnos" 
+               },
+               {
+                  "x": 5,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/watari.jpg",
+                  "type":"image",
+                  "answer":"watari",
+                  "letters":"Haabimortw" 
+               },
+               {
+                  "x": 5,
+                  "y": 9,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/wendy.jpg",
+                  "type":"image",
+                  "answer":"wendy",
+                  "letters":"DPUdennwy" 
+               },
+               {
+                  "x": 1,
+                  "y": 13,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/luffy.jpg",
+                  "type":"image",
+                  "answer":"luffy",
+                  "letters":"DEfflouvy" 
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "crosswords": [
+         {
+            "width" : 15,
+            "height" : 13,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"GTO: Quel étudiant est l'intimidé qui essaie de se suicider?",
+                  "type":"text",
+                  "answer":"yoshikawa",
+                  "letters":"CGaahikosvvwy" 
+               },
+               {
+                  "x": 3,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/sinon.jpg",
+                  "type":"image",
+                  "answer":"sinon",
+                  "letters":"BIYimnnos" 
+               },
+               {
+                  "x": 2,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Code Geass: Alors que la popularité de Suzaku augmentait avec celle des Japonais après qu'il ait été fait chevalier, les Black Knights craignaient que leur groupe ne perde son soutien. Qui dans le groupe a suggéré d'assassiner Suzaku Kururugi?",
+                  "type":"text",
+                  "answer":"diethard",
+                  "letters":"FHaddehiknrt" 
+               },
+               {
+                  "x": 5,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Dragonball Z: Combien de Dragonballs est Frieza en possession quand les héros arrivent à Namek?",
+                  "type":"text",
+                  "answer":"quatre",
+                  "letters":"FJaehkqrtu" 
+               },
+               {
+                  "x": 0,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Steins Gate: quel personnage n'existe pas réellement dans la ligne du monde de Steins Gate?",
+                  "type":"text",
+                  "answer":"amane",
+                  "letters":"YZaaeemno" 
+               },
+               {
+                  "x": 9,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Nanatsu : qui est l'ancien chef des dix commandements",
+                  "type":"text",
+                  "answer":"meliodas",
+                  "letters":"EKSadeilmosw" 
+               },
+               {
+                  "x": 8,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Steins Gate: La capacité de conserver des souvenirs à travers les lignes du monde s'appelle ______ Steiner",
+                  "type":"text",
+                  "answer":"reading",
+                  "letters":"FVadeghinpr" 
+               },
+               {
+                  "x": 7,
+                  "y": 4,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/frieza.jpg",
+                  "type":"image",
+                  "answer":"frieza",
+                  "letters":"EGJabefirz" 
+               },
+               {
+                  "x": 8,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Cowboy bebop: Quel est le nom du vaisseau de chasse de Spike?",
+                  "type":"text",
+                  "answer":"espadon",
+                  "letters":"Qaaadenopps" 
+               },
+               {
+                  "x": 11,
+                  "y": 7,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Attack On Titans: Quel est le nom de famille de eren",
+                  "type":"text",
+                  "answer":"jager",
+                  "letters":"Raeeghjrz" 
+               }
+            ]
+         },
+         {
+            "width" : 8,
+            "height" : 15,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Code Geass: les Black Knights ont appris la véritable identité de Zero. Qui leur a révélé cela?",
+                  "type":"text",
+                  "answer":"schneizel",
+                  "letters":"IRceeghiklnsz" 
+               },
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/chiaotzu.jpg",
+                  "type":"image",
+                  "answer":"chiaotzu",
+                  "letters":"IQachilostuz" 
+               },
+               {
+                  "x": 2,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Dragonball Z: Qu'est-ce que Dabura a transformé en Majin Buu?",
+                  "type":"text",
+                  "answer":"biscuit",
+                  "letters":"abciilpstux" 
+               },
+               {
+                  "x": 2,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Quel est le nom de la mère d'Ed et Al?",
+                  "type":"text",
+                  "answer":"trisha",
+                  "letters":"PWahiqrstt" 
+               },
+               {
+                  "x": 5,
+                  "y": 6,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/sakura.jpg",
+                  "type":"image",
+                  "answer":"sakura",
+                  "letters":"DEMZaakrsu" 
+               },
+               {
+                  "x": 7,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/orange.jpg",
+                  "type":"image",
+                  "answer":"orange",
+                  "letters":"KUaegnorsz" 
+               },
+               {
+                  "x": 2,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/uryu.jpg",
+                  "type":"image",
+                  "answer":"uryu",
+                  "letters":"FIZjruuy" 
+               },
+               {
+                  "x": 3,
+                  "y": 11,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/black.jpg",
+                  "type":"image",
+                  "answer":"black",
+                  "letters":"CLabcdklt" 
+               },
+               {
+                  "x": 4,
+                  "y": 11,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"One Piece: Quel est le nom utilisé par Luffy pour entrer dans le Colisée de Dressrosa?",
+                  "type":"text",
+                  "answer":"lucy",
+                  "letters":"EFMccluy" 
+               },
+               {
+                  "x": 7,
+                  "y": 11,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/kyou.jpg",
+                  "type":"image",
+                  "answer":"kyou",
+                  "letters":"IJbkouuy" 
+               }
+            ]
+         },
+         {
+            "width" : 9,
+            "height" : 15,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Anime",
+                  "content":"assets/images/content/btooom.jpg",
+                  "type":"image",
+                  "answer":"btooom",
+                  "letters":"FUbmoooptv" 
+               },
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/tenma.jpg",
+                  "type":"image",
+                  "answer":"tenma",
+                  "letters":"aeejkmnrt" 
+               },
+               {
+                  "x": 0,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/mikado.jpg",
+                  "type":"image",
+                  "answer":"mikado",
+                  "letters":"FRadfikmox" 
+               },
+               {
+                  "x": 3,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Bleach: Qui est connu comme la \"Primera Espada\"?",
+                  "type":"text",
+                  "answer":"starrk",
+                  "letters":"DLabkrrrst" 
+               },
+               {
+                  "x": 3,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Bleach: Qui était le Tchad essayant de protéger quand il a utilisé pour la première fois son bras droit du géant?",
+                  "type":"text",
+                  "answer":"karin",
+                  "letters":"JRaiknqrt" 
+               },
+               {
+                  "x": 6,
+                  "y": 6,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/okita.jpg",
+                  "type":"image",
+                  "answer":"okita",
+                  "letters":"Saijkotvz" 
+               },
+               {
+                  "x": 2,
+                  "y": 10,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Steins Gate: Qui est le membre du laboratoire 005?",
+                  "type":"text",
+                  "answer":"moeka",
+                  "letters":"VZaeklmos" 
+               },
+               {
+                  "x": 5,
+                  "y": 10,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/kise.jpg",
+                  "type":"image",
+                  "answer":"kise",
+                  "letters":"HQYeiksz" 
+               },
+               {
+                  "x": 5,
+                  "y": 12,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/sora.jpg",
+                  "type":"image",
+                  "answer":"sora",
+                  "letters":"BUWaorsy" 
+               },
+               {
+                  "x": 8,
+                  "y": 11,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Dragonball Z: Qui a créé les Dragon Balls?",
+                  "type":"text",
+                  "answer":"kami",
+                  "letters":"LPVaikmo" 
+               }
+            ]
+         },
+         {
+            "width" : 13,
+            "height" : 16,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Tokyo Ghoul: Cette goule aime  kaneki et veut le manger",
+                  "type":"text",
+                  "answer":"tsukiyama",
+                  "letters":"PRaaiijkmstuy" 
+               },
+               {
+                  "x": 3,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Tokyo Ghoul: l'oeil d'une goule s'appelle?",
+                  "type":"text",
+                  "answer":"kakugan",
+                  "letters":"Eaacggkknuu" 
+               },
+               {
+                  "x": 3,
+                  "y": 2,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/kogorou.jpg",
+                  "type":"image",
+                  "answer":"kogorou",
+                  "letters":"Bbbgkoooruz" 
+               },
+               {
+                  "x": 0,
+                  "y": 5,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Tokyo Ghoul: Elle a vu sa mère être tuée, et ensuite elle a dû se battre contre son tueur?",
+                  "type":"text",
+                  "answer":"hinami",
+                  "letters":"GLYafhiimn" 
+               },
+               {
+                  "x": 1,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/kite.jpg",
+                  "type":"image",
+                  "answer":"kite",
+                  "letters":"JQeegikt" 
+               },
+               {
+                  "x": 0,
+                  "y": 7,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Note de décès: Qui a tué L?",
+                  "type":"text",
+                  "answer":"rem",
+                  "letters":"ILdemrr" 
+               },
+               {
+                  "x": 5,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Code Geass: Quelle est la couleur des yeux de presque toute la famille royale Britannienne?",
+                  "type":"text",
+                  "answer":"violet",
+                  "letters":"Veilotuvvw" 
+               },
+               {
+                  "x": 3,
+                  "y": 9,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Fairy Tails: 25 Quel personnage était souvent appelé Â«salamandreÂ»?",
+                  "type":"text",
+                  "answer":"natsu",
+                  "letters":"Hamnrstuu" 
+               },
+               {
+                  "x": 7,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Code Geass: Lelouch a été capturé par les Britanniens, qui l'a libéré de la capture?",
+                  "type":"text",
+                  "answer":"guilford",
+                  "letters":"ZZdfgiklmoru" 
+               },
+               {
+                  "x": 7,
+                  "y": 15,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"One Piece: Qui est le père de Luffy?",
+                  "type":"text",
+                  "answer":"dragon",
+                  "letters":"AMaaddgnor" 
+               }
+            ]
+         },
+         {
+            "width" : 11,
+            "height" : 13,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Bleach: Quel est le nom de la forme libérée du Zanpaku-to de Kaname Tosen?",
+                  "type":"text",
+                  "answer":"suzumushi",
+                  "letters":"EShimrssuuuwz" 
+               },
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/ash.jpg",
+                  "type":"image",
+                  "answer":"ash",
+                  "letters":"idhkoaimqsz" 
+               },
+               {
+                  "x": 4,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Kuroko No Basketball : En plus d'être un basketteur, Kise est aussi",
+                  "type":"text",
+                  "answer":"modele",
+                  "letters":"ABWdeelmoz" 
+               },
+               {
+                  "x": 2,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Fullmetal Alchemist: Qu'est-ce qui était interdit aux Ishbalans?",
+                  "type":"text",
+                  "answer":"alchimie",
+                  "letters":"CPRVacehiilm" 
+               },
+               {
+                  "x": 2,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Fairy Tails: Quel type de tueur de dragon est Wendy Marvell?",
+                  "type":"text",
+                  "answer":"ciel",
+                  "letters":"Fceijlmt" 
+               },
+               {
+                  "x": 5,
+                  "y": 6,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/ling.jpg",
+                  "type":"image",
+                  "answer":"ling",
+                  "letters":"Ogillntv" 
+               },
+               {
+                  "x": 5,
+                  "y": 8,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/nagisa.jpg",
+                  "type":"image",
+                  "answer":"nagisa",
+                  "letters":"Jaagijmnsu" 
+               },
+               {
+                  "x": 8,
+                  "y": 5,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Naruto / shippuden: Qui est le vrai chef de l'akatsuki?",
+                  "type":"text",
+                  "answer":"tobi",
+                  "letters":"BJQRbiot" 
+               },
+               {
+                  "x": 10,
+                  "y": 8,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Naruto / shippuden: Que signifie le symbole sur le front de Gaara?",
+                  "type":"text",
+                  "answer":"amour",
+                  "letters":"Mamoqruux" 
+               }
+            ]
+         },
+         {
+            "width" : 10,
+            "height" : 11,
+            "questions" : [
+               {
+                  "x": 0,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Hunter X Hunter: Les Zoldycks sont une famille de quoi?",
+                  "type":"text",
+                  "answer":"assassins",
+                  "letters":"BBKaaimnsssss" 
+               },
+               {
+                  "x": 3,
+                  "y": 1,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"Tokyo Ghoul: qui fait les masques",
+                  "type":"text",
+                  "answer":"uta",
+                  "letters":"ITZaltu" 
+               },
+               {
+                  "x": 0,
+                  "y": 6,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/izumi.jpg",
+                  "type":"image",
+                  "answer":"izumi",
+                  "letters":"CNQQiimuz" 
+               },
+               {
+                  "x": 3,
+                  "y": 3,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/armin.jpg",
+                  "type":"image",
+                  "answer":"armin",
+                  "letters":"Naimnrwxz" 
+               },
+               {
+                  "x": 6,
+                  "y": 0,
+                  "direction":"h",
+                  "title":"Question",
+                  "content":"One Piece: Qui contrôle le temps avec ses arme et est le navigateur des pirates de chapeau de paille fictifs?",
+                  "type":"text",
+                  "answer":"nami",
+                  "letters":"ILSUaimn" 
+               },
+               {
+                  "x": 2,
+                  "y": 4,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/tsubaki.jpg",
+                  "type":"image",
+                  "answer":"tsubaki",
+                  "letters":"KSabikostuw" 
+               },
+               {
+                  "x": 5,
+                  "y": 1,
+                  "direction":"v", 
+                  "title":"Personnage",
+                  "content":"assets/images/content/happy.jpg",
+                  "type":"image",
+                  "answer":"happy",
+                  "letters":"TTUZahppy" 
+               },
+               {
+                  "x": 4,
+                  "y": 3,
+                  "direction":"h",
+                  "title":"Personnage",
+                  "content":"assets/images/content/robin.jpg",
+                  "type":"image",
+                  "answer":"robin",
+                  "letters":"KPSUbinor" 
+               },
+               {
+                  "x": 1,
+                  "y": 10,
+                  "direction":"v", 
+                  "title":"Question",
+                  "content":"Sword Art Online: la compétence que seul Kirito avait et que personne d'autre n'a fait s'appelle Dual ____",
+                  "type":"text",
+                  "answer":"wield",
+                  "letters":"COYdeiltw" 
+               }
+            ]
+         }
+      ]
+   }
+]

@@ -52,6 +52,9 @@
     	}
 	}
 }
+.purchaseError.popup-container.cw-popup .popup-head h3{
+	font-family:'tex';
+}
 .popup-container.gift{
 	.popup .popup-head{
 		position:relative;
@@ -60,7 +63,7 @@
 		    display: block;
 		    background-image: url(../assets/images/gift.png);
 		    height: 20px;
-		    width: 20px;
+		    width: 20px; 
 		    margin: auto;
 		    background-size: contain;
 		    background-repeat: no-repeat;
@@ -100,16 +103,16 @@
     		li{
 			    font-size: 15px;
 			    padding: 15px 0;
-			    border-bottom: 1px solid lighten($darkBlue,10%);
+			    border-top: 1px solid lighten($darkBlue,10%);
 			    font-family: 'tex';
 			    position:relative;
 			    padding-right:30px;
-			    &:last-child{
+			    &:first-child{
 			    	border:none;
 			    }
 			    &.disable{
 			    	color: lighten($darkBlue,10%);
-			    	.hint-plus{color: lighten($darkBlue,10%);border-color: lighten($darkBlue,10%);}
+			    	.hint-plus{color: lighten($darkBlue,10%);background: transparent;}
 			    }
     		}
     		.hint-plus{
@@ -117,9 +120,9 @@
 			    right: 7px;
 			    font-family: 'mouse';
 			    color: #FFFFFF;
-			    border: 1px solid $orange;
-			    border-radius: 45px;
-			    width: 27px;
+			    background: darken($darkBlue,20%);
+			    width: 37px;
+			    text-align: center;
 			    display: inline-block;
 			    padding: 2px 4px;
 			    font-size: 12px;

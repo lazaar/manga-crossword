@@ -37,9 +37,12 @@
             .state(cqConstantes.states.about, {
                 url: '/'+ cqConstantes.states.about,
                 templateUrl: 'app/views/about.html',
-                  controller: function($scope){
-                    $scope.facebookUrl = cqConstantes.facebookUrl;
-                  }
+                controller: 'aboutController as vm'
+            })
+            .state(cqConstantes.states.language, {
+                url: '/'+ cqConstantes.states.language,
+                templateUrl: 'app/views/language.html',
+                 controller: 'languageController as vm'
             })
             .state(cqConstantes.states.levels, {
                 url: '/'+cqConstantes.states.levels,

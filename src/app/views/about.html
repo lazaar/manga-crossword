@@ -8,22 +8,25 @@
         <button class="cw-button-back button button-icon" ng-click="mainCtrl.goBack()"><i class="ion-ios-arrow-back"></i></button>
     </ion-nav-buttons>
 
+    <ion-nav-buttons side="right">
+        <button class="cw-button-back button button-icon" ng-click="mainCtrl.goToState('language')"><img class="image-icon" ng-src="assets/images/{{vm.language}}.png" alt="English"></button>
+    </ion-nav-buttons>
+
 </ion-nav-bar>
 
 <ion-content class="about-page" delegate-handle="content" scroll="false">
-  <h3 class="title">About</h3>
+  <h3 class="title">{{'About' | translate}}</h3>
   <p class="content">
-    Manga Words is free game for all ages that test your knowledge on Manga and Anime .. available on Android and iOS in English, So accept this challenge and discover an easy and fun way to test your manga culture.
-    If you have any inquiry or problem with any of our content (including copyrights and mistakes), please contact us
+    {{'content-about' | translate}}
   </p>
   <div class="contributors">
-    <div>Design & programming</div>
+    <div>{{'Design & programming' | translate}}</div>
     <p>LAZAAR Ilyass</p>
-    <div>Contents</div>
+    <div>{{'Contents' | translate}}</div>
     <p>Soufiane Chalouh</p>
   </div>
   <div class="bottom-bloc">
     <div class="company">By LAZY GAMES </div>
-    <a ng-click="mainCtrl.open('{{facebookUrl}}','_system')" class="cw-btn cw-blue-btn facebook">Facebook</a>
+    <a ng-click="mainCtrl.open('{{vm.facebookUrl}}','_system')" class="cw-btn cw-blue-btn facebook">Facebook</a>
   </div>
 </ion-content>

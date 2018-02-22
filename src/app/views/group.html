@@ -5,7 +5,7 @@
       </ion-nav-buttons>
 
     <ion-nav-title>
-        Level {{vm.level +1}}
+        {{'Level' | translate}} {{vm.level +1}}
     </ion-nav-title>
 
     <ion-nav-buttons side="left">
@@ -54,6 +54,6 @@
 
   </ion-slide-box>
 -->
-  <a href="" ng-click="vm.showPopupHints(); mainCtrl.clickSound()" class="cw-btn cw-blue-btn has-icon add-hints"><i class="coins-icon"></i> Add Coins</a>
+  <a href="" ng-click="vm.showPopupHints(); mainCtrl.clickSound()" class="cw-btn cw-blue-btn has-icon add-hints"><i class="coins-icon"></i> {{'Add coins'| translate}}</a>
 
 </ion-content>

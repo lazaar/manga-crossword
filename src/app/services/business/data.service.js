@@ -2,7 +2,7 @@
     'use strict';
     angular
         .module('mangaWords')
-        .factory('dataService', function($log, $q, $http, dataModel, configConstantes){
+        .factory('dataService', function($log, $q, $http, dataModel, configConstantes,storageHelper,cqConstantes){
 
 
         // ############################################# //
@@ -15,7 +15,8 @@
             }
 
             var defered = $q.defer();
-             $http.get(configConstantes.urlBase)
+            var language = storageHelper.getItem(cqConstantes.localStorage.language);
+             $http.get(configConstantes.urlBase.replace('{language}',language))
                 .success(function (datas) {
                     // Updating the modele
                     dataModel.data = datas;

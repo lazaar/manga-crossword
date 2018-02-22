@@ -2,7 +2,7 @@
     'use strict';
     angular
         .module('mangaWords')
-        .factory('starService', function(storageHelper,soundService, dataModel, popupService, cqConstantes){
+        .factory('starService', function(storageHelper,$filter, soundService, dataModel, popupService){
 
         // ############################################# //
         // ############### PUBLIC BUSINESS ############# //
@@ -62,12 +62,12 @@
                 values.currentCw = 1;
                 values.currentLevel = parseInt(values.currentLevel); 
                 values.currentLevel++;
-                popupService.infoText(cqConstantes.popupMessage.newLevelUnlocked);
+                popupService.infoText($filter('translate')('newLevelUnlocked'));
             }
             else{
                 values.currentCw = parseInt(values.currentCw); 
                 values.currentCw++;
-                popupService.infoText(cqConstantes.popupMessage.newCwUnlocked);
+                popupService.infoText($filter('translate')('newCwUnlocked'));
            }
             soundService.playSound('unlocked');
 

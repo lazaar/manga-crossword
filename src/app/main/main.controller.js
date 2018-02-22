@@ -4,7 +4,7 @@
     angular
         .module('mangaWords')
         //Controller of the main page
-        .controller('MainController', function (routerHelper,$state,dataModel, analyticsService, cqConstantes, soundService, starService, dataService, $ionicHistory) {
+        .controller('MainController', function (routerHelper,$translate,storageHelper, analyticsService, cqConstantes, soundService, starService, $ionicHistory) {
 
             var vm = this;
             vm.goBack = function (){
@@ -30,8 +30,8 @@
             function init(){
                 analyticsService.logEvent('app_open');
                 //Init Data
-                dataService.getData();
                 starService.init();
+                $translate.use(storageHelper.getItem(cqConstantes.localStorage.language)|| 'en');
             }
 
             init();

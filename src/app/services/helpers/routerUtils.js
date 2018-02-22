@@ -29,12 +29,6 @@
          */
         function goToState(to, params, options) {
             $state.go(to, params, options);
-
-            /*$ionicHistory.nextViewOptions({
-                disableAnimate: disableAnimateEnter,
-                disableBack: false,
-                historyRoot: historyRoot
-            });*/
         }
 
         // ################################### //

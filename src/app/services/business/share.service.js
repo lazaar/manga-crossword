@@ -2,7 +2,7 @@
     'use strict';
     angular
         .module('mangaWords')
-        .factory('shareService', function($log, analyticsService,  cqConstantes){
+        .factory('shareService', function($log, analyticsService,  cqConstantes, $filter){
 
 
         // ############################################# //
@@ -16,8 +16,8 @@
             }
 
             var options = {
-              message: cqConstantes.popupMessage.shareTitle,
-              subject: cqConstantes.popupMessage.shareTitle,
+              message: $filter('translate')('shareTitle'),
+              subject: $filter('translate')('shareTitle'),
               url: url
             };
 

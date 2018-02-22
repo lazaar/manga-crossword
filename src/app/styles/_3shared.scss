@@ -137,6 +137,9 @@ $header-height:60px;
     width: 24px;
     height: 24px;
 }
+.platform-android .hide-android{
+    display: none !important;
+}
 .platform-ios.platform-cordova:not(.fullscreen) .bar-header:not(.bar-subheader){
     height: 84px;
 }
@@ -146,6 +149,12 @@ $header-height:60px;
     }
     .levels-page, .group-page, .cw-page, .question-page, .about-page{
         padding-top:90px;
+    }
+     .group-page .add-hints{
+        margin-bottom: 100px;
+    }
+    .home-page .bottom-btns{
+        top: 30px;
     }
 }
 .platform-ios .group-page .progressiveBar{

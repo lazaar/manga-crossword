@@ -308,6 +308,7 @@ class Crossword(object):
         result += '\t\t\t\t"width" : %d,\n '  % (width-1)
         result += '\t\t\t\t"height" : %d,\n '  % (height-1)
         result += '\t\t\t\t"questions" : [\n '  
+
         for i,word in enumerate(self.current_word_list):
             if i!=0:
                 result += ',\n'
@@ -318,13 +319,13 @@ class Crossword(object):
             else:
               result += '\t\t\t\t\t\t"direction":"h",\n'  
             
-            result += '\t\t\t\t\t\t"title":"%s",\n' % word.title
+            result += '\t\t\t\t\t\t"title":"%s",\n' % word.title.capitalize()
             
             if word.clue != "":
               result += '\t\t\t\t\t\t"content":"%s",\n' % word.clue
               result += '\t\t\t\t\t\t"type":"text",\n'       
             else:
-              result += '\t\t\t\t\t\t"content":"../assets/images/content/%s.jpg",\n' % word.word
+              result += '\t\t\t\t\t\t"content":"assets/images/content/%s.jpg",\n' % word.word
               result += '\t\t\t\t\t\t"type":"image",\n'      
             result += '\t\t\t\t\t\t"answer":"%s",\n' % word.word
             randomized = word.word + random_char(4)
@@ -378,8 +379,6 @@ result = '[\n'
 while True:
     words = questions[0:QUESTIONS_IN_EACH_CROSSWORD]
     questions = questions[QUESTIONS_IN_EACH_CROSSWORD:]
-    
-
     if(crosswordId%CROSSWORD_IN_EACH_LEVEL == 0):
         if(crosswordId != 0):
             result += '\n\t\t]\n' 
@@ -398,7 +397,6 @@ while True:
     a.word_find()
     a.display()
     result += a.legend()
-
     if(len(a.current_word_list) < len(words)):
         currentWords = []
         for currentWord in a.current_word_list:

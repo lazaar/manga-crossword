@@ -8,10 +8,14 @@
         .controller('homeController', HomeControllerFct);
 
 
-    function HomeControllerFct(shareService,admobService, analyticsService, $scope, cqConstantes, soundService,starService, popupService,  dataModel){
+    function HomeControllerFct($ionicHistory,$filter, shareService,admobService,dataService, analyticsService, $scope, cqConstantes, soundService,starService, popupService,  dataModel){
 
         var vm = this;
 
+        $scope.$on('$ionicView.enter', function(){
+            $ionicHistory.clearHistory();
+            $ionicHistory.clearCache();
+        });
 
         $scope.$on( '$ionicView.beforeEnter', function( scopes, states ) {
             if(states.fromCache){
@@ -25,7 +29,8 @@
                 today = new Date().toDateString();
             if(lastDate !== today){
                 starService.incrementHints(5);
-                popupService.showPopup(cqConstantes.popupMessage.giftTitle, cqConstantes.popupMessage.giftContent.replace('{coins}',5), 'gift');
+
+                popupService.showPopup($filter('translate')('giftTitle'), $filter('translate')('giftContent').replace('{coins}',5), 'gift');
                 starService.setLastDate(today);
             }  
         };
@@ -47,6 +52,7 @@
          * init of the controler
          */
         function init(){
+            dataService.getData();
             analyticsService.setScreenName('home');
             gift();
             soundService.playMenuMusic();

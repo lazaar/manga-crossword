@@ -6,14 +6,14 @@
         .run(runBlock);
 
     /** @ngInject */
-    function runBlock($log, $ionicPlatform, notificationsService, facebookService, admobService, coinsService, $state, routerHelper, cqConstantes, soundService) {
+    function runBlock($log, $ionicPlatform,storageHelper, notificationsService, facebookService, admobService, coinsService, $state, routerHelper, cqConstantes, soundService) {
 
         var initAppRate = function(){
             AppRate.preferences.storeAppURL= {
                 ios: cqConstantes.ios,
                 android: 'market://details?id='+cqConstantes.android
             };
-            AppRate.preferences.usesUntilPrompt = 2;
+            AppRate.preferences.usesUntilPrompt = 1;
         };
 
         var toggleSounds=function(){
@@ -56,8 +56,8 @@
 
 
         $ionicPlatform.ready(function () {
-
-            routerHelper.goToState(cqConstantes.states.home);
+            var nextState = storageHelper.getItem(cqConstantes.localStorage.language) ? cqConstantes.states.home : cqConstantes.states.language; 
+            routerHelper.goToState(nextState);
             
             coinsService.init();
             if(typeof cordova !== 'undefined'){

@@ -2,7 +2,7 @@
     'use strict';
     angular
         .module('mangaWords')
-        .factory('popupService', function($ionicPopup, $timeout){
+        .factory('popupService', function($ionicPopup, $timeout,$filter){
 
 
         // ############################################# //
@@ -20,7 +20,7 @@
                   cssClass:'hints',
                   templateUrl:'app/views/template/hints.html',
                   scope: null,
-                  okText:'Close'
+                  okText:$filter('translate')('Close')
               }).then(function(){
                 hintsPopup = undefined;
               });
@@ -35,7 +35,7 @@
               var options = {
                   template: content,
                   scope: null,
-                  okText:'Close'
+                  okText:$filter('translate')('Close')
               };
 
               if(title){
