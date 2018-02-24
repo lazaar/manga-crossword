@@ -11,9 +11,9 @@
       <img src="assets/images/fr.png" alt="Francais">
       <span>Français <i class="ion-checkmark-round"></i></span>
     </li>
-    <li class="disable">
-      <img src="assets/images/es.png" alt="Francais">
-      <span>Coming soon <i class="ion-checkmark-round"></i></span>
+    <li ng-click="vm.changeLanguage('es')" ng-class="{'checked':vm.language == 'es'}">
+      <img src="assets/images/es.png" alt="espagnol">
+      <span>Espagnol <i class="ion-checkmark-round"></i></span>
     </li>
     <li class="disable">
       <img src="assets/images/ru.png" alt="Francais">

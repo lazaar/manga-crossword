@@ -66,6 +66,35 @@
             'giftTitle':'Coins du jour',
             'giftContent':'Vous recievez {coins} Coins',
           });
+
+        $translateProvider.translations('es', {
+            'play': 'Jugar',
+            'Reveal letter':'Une lettre ?',
+            'Add coins':'Ajouter coins',
+            'Ask a friend':'SOS a un Ami',
+            'Level':'Niveau',
+            'Save':'Ok',
+            'Next Level':'Niveau Suivant',
+            'Next Crosswords':'Crossword Suivante',
+            'Back':'Retour',
+            'Close':'Fermer',
+            'About':'A propos',
+            'Design & programming':'Design & programmation',
+            'Contents':'Contenu',
+            'content-about':'Anime Crosswords est un jeu gratuit pour tous les âges qui testent vos connaissances de Manga et Anime .. disponible sur Android et iOS en anglais, francais, espagnole et russe, alors acceptez ce défi et découvrez un moyen facile et amusant de tester votre culture de manga. Si vous avez des questions ou des problèmes avec l\'un de nos contenus (y compris les droits d\'auteur et les erreurs), veuillez nous contacter',
+            'Watch Video':'Voir une Video',
+            'Connect to Facebook':'Connecter à Facebook',
+            'Share to Facebook':'Partager sur Facebook',
+            'Invite +3 Friends':'Inviter 3 amis',
+            'Language':'Langues',
+            'LanguageAlert':'Si vous changez la langue, vous devez recommencer dés le début',
+
+            'newLevelUnlocked':'Niveau suivant débloqué',
+            'newCwUnlocked':'Crossword suivante débloqué',
+            'shareTitle':'Anime Crosswords : le meilleur jeu de Manga et Anime',
+            'giftTitle':'Coins du jour',
+            'giftContent':'Vous recievez {coins} Coins',
+          });
          
           $translateProvider.preferredLanguage('en');
     }
