@@ -19,9 +19,7 @@
          }
 
          function isHint(i, j){
-            if(!values){
-                values = storageHelper.getItem('letters') || {};
-            }
+            values = storageHelper.getItem('letters') || {};
             var levelId =dataModel.crosswords.levelId,
                 cwId =dataModel.crosswords.id;
             return _.has(values, 'level-'+levelId+'.crossword-'+cwId+'.hints.'+i+'-'+j);
@@ -42,9 +40,7 @@
          }
 
          function isQuestions(index){
-            if(!values){
-                values = storageHelper.getItem('letters') || {};
-            }
+            values = storageHelper.getItem('letters') || {};
             var levelId =dataModel.crosswords.levelId,
                 cwId =dataModel.crosswords.id;
 
@@ -61,9 +57,7 @@
          }
 
         function getNumberCorrectionByCw(levelId, cwId){
-            if(!values){
-                values = storageHelper.getItem('letters') || {};
-            }
+            values = storageHelper.getItem('letters') || {};
 
             return _.get(values, 'level-'+levelId+'.crossword-'+cwId+'.corrections',[]).length;
          }
