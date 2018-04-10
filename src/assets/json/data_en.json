@@ -527,11 +527,11 @@
       "crosswords": [
          {
             "width" : 15,
-            "height" : 11,
+            "height" : 13,
             "questions" : [
                {
                   "x": 0,
-                  "y": 0,
+                  "y": 1,
                   "direction":"v", 
                   "title":"Fullmetal",
                   "content":"The Flame Alchemist is whom?",
@@ -541,7 +541,7 @@
                },
                {
                   "x": 0,
-                  "y": 0,
+                  "y": 1,
                   "direction":"h",
                   "title":"Soul eater",
                   "content":"assets/images/content/maka.jpg",
@@ -551,7 +551,7 @@
                },
                {
                   "x": 2,
-                  "y": 0,
+                  "y": 1,
                   "direction":"h",
                   "title":"Hunter x hunter",
                   "content":"assets/images/content/satotz.jpg",
@@ -561,7 +561,7 @@
                },
                {
                   "x": 6,
-                  "y": 0,
+                  "y": 1,
                   "direction":"h",
                   "title":"Fairy tails",
                   "content":"assets/images/content/gajeel.jpg",
@@ -571,7 +571,7 @@
                },
                {
                   "x": 4,
-                  "y": 5,
+                  "y": 6,
                   "direction":"v", 
                   "title":"Cowboy bebop",
                   "content":"Cowboy bebop : Whom does Spike go looking for every so often?",
@@ -581,7 +581,7 @@
                },
                {
                   "x": 8,
-                  "y": 3,
+                  "y": 4,
                   "direction":"h",
                   "title":"One piece",
                   "content":"One Piece: Which 'One Piece' character is the carpenter who remodeled himself into a cyborg?",
@@ -591,7 +591,7 @@
                },
                {
                   "x": 7,
-                  "y": 8,
+                  "y": 9,
                   "direction":"v", 
                   "title":"One piece",
                   "content":"One Piece: What is the name of the zombie that Moria let possess Brooke's shadow in the Thriller Bark Arc?",
@@ -601,7 +601,7 @@
                },
                {
                   "x": 12,
-                  "y": 3,
+                  "y": 4,
                   "direction":"h",
                   "title":"Hunter x hunter",
                   "content":"assets/images/content/hisoka.jpg",
@@ -611,7 +611,7 @@
                },
                {
                   "x": 11,
-                  "y": 4,
+                  "y": 5,
                   "direction":"v", 
                   "title":"Hunter x hunter",
                   "content":"Hunter X Hunter :what is the name of Gon's Father ",
@@ -621,7 +621,7 @@
                },
                {
                   "x": 10,
-                  "y": 6,
+                  "y": 7,
                   "direction":"h",
                   "title":"Tokyo ghoul",
                   "content":"Tokyo Ghoul: Who kills Mado?",
